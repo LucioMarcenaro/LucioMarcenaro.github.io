@@ -1,0 +1,121 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+excerpt: "Journal articles, conference papers and book chapters by Lucio Marcenaro, in IEEE format with BibTeX."
+---
+
+{% include base_path %}
+{%- assign all = site.data.publications -%}
+{%- assign sections = "article|Journal articles,inproceedings|Conference papers,incollection|Book chapters" | split: "," -%}
+
+<style>
+  .pubs-tools { display: flex; flex-wrap: wrap; gap: .5em; align-items: center; margin: 0 0 1.5em; }
+  .pubs-tools input { flex: 1 1 14em; margin: 0; padding: .4em .6em; font-size: .85em;
+    color: var(--global-text-color); background: var(--global-bg-color); border: 1px solid var(--global-border-color); border-radius: 4px; }
+  .pubs-tools .btn, .pub-actions button { font-size: .7em; }
+  .pubs-toc { font-size: .85em; margin-bottom: 1em; }
+  .pubs-year { font-size: 1em; margin: 1.5em 0 .5em; color: var(--global-text-color-light); border: 0; }
+  .pubs-list { margin: 0 0 0 2.5em; padding: 0; }
+  .pubs-list li { font-size: .85em; line-height: 1.5; margin-bottom: .9em; padding-left: .3em; }
+  .pubs-list li::marker { color: var(--global-text-color-light); }
+  .pub-actions { margin-top: .25em; }
+  .pub-actions button { cursor: pointer; padding: .1em .6em; margin-right: .3em; border-radius: 4px;
+    color: var(--global-link-color); background: transparent; border: 1px solid var(--global-border-color); }
+  .pub-actions button:hover { color: var(--global-link-color-hover); border-color: var(--global-link-color); }
+  .pub-bib { display: none; position: relative; margin: .4em 0 0; }
+  .pub-bib.open { display: block; }
+  .pub-bib pre { font-size: .75em; margin: 0; padding: .8em; overflow-x: auto; white-space: pre;
+    color: var(--global-code-text-color); background: var(--global-code-background-color); border-radius: 4px; }
+  .pubs-empty { display: none; font-style: italic; }
+</style>
+
+<p>{{ all | size }} peer-reviewed publications in IEEE format. Use <em>BibTeX</em> under each entry to view, copy or download its citation, or download the
+  <a href="{{ base_path }}/publications.bib" download>complete BibTeX file</a>.
+  See also <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+
+<div class="pubs-tools">
+  <input type="search" id="pub-filter" placeholder="Filter by title, author, venue or year" aria-label="Filter publications">
+</div>
+
+<p class="pubs-toc">
+{%- for s in sections -%}
+  {%- assign sp = s | split: "|" -%}
+  {%- assign items = all | where: "type", sp[0] -%}
+  <a href="#{{ sp[0] }}">{{ sp[1] }}</a> ({{ items | size }}){% unless forloop.last %} &middot; {% endunless %}
+{%- endfor -%}
+</p>
+
+{%- for s in sections -%}
+{%- assign sp = s | split: "|" -%}
+{%- assign items = all | where: "type", sp[0] | sort: "year" | reverse -%}
+{%- assign total = items | size -%}
+<h2 id="{{ sp[0] }}">{{ sp[1] }}</h2>
+{%- assign idx = 0 -%}
+{%- assign groups = items | group_by: "year" -%}
+{%- for g in groups %}
+<h3 class="pubs-year">{{ g.name }}</h3>
+<ol class="pubs-list" start="{{ total | minus: idx }}" reversed>
+  {%- for pub in g.items %}
+  <li id="{{ pub.key }}" data-search="{{ pub.title | downcase | escape }} {{ pub.authors | join: ' ' | downcase | escape }} {{ pub.venue | downcase | escape }} {{ pub.year }}">
+    {% include pub-ieee.html pub=pub %}
+    <div class="pub-actions">
+      <button type="button" class="pub-toggle" aria-expanded="false" aria-controls="bib-{{ pub.key }}">BibTeX</button>
+    </div>
+    <div class="pub-bib" id="bib-{{ pub.key }}">
+      <pre>{% capture bib %}{% include pub-bibtex.txt pub=pub %}{% endcapture %}{{ bib | strip | escape }}</pre>
+      <div class="pub-actions">
+        <button type="button" class="pub-copy">Copy</button>
+        <button type="button" class="pub-download" data-key="{{ pub.key }}">Download .bib</button>
+      </div>
+    </div>
+  </li>
+  {%- assign idx = idx | plus: 1 -%}
+  {%- endfor %}
+</ol>
+{%- endfor -%}
+{%- endfor %}
+<p class="pubs-empty" id="pub-empty">No publications match the filter.</p>
+
+<script>
+(function () {
+  document.querySelectorAll('.pub-toggle').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var box = document.getElementById(b.getAttribute('aria-controls'));
+      var open = box.classList.toggle('open');
+      b.setAttribute('aria-expanded', open);
+    });
+  });
+  function bibOf(btn) { return btn.closest('.pub-bib').querySelector('pre').textContent + '\n'; }
+  document.querySelectorAll('.pub-copy').forEach(function (b) {
+    b.addEventListener('click', function () {
+      navigator.clipboard.writeText(bibOf(b)).then(function () {
+        b.textContent = 'Copied'; setTimeout(function () { b.textContent = 'Copy'; }, 1500);
+      });
+    });
+  });
+  document.querySelectorAll('.pub-download').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var url = URL.createObjectURL(new Blob([bibOf(b)], { type: 'application/x-bibtex' }));
+      var a = document.createElement('a');
+      a.href = url; a.download = b.dataset.key + '.bib';
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+    });
+  });
+  var input = document.getElementById('pub-filter');
+  input.addEventListener('input', function () {
+    var q = input.value.trim().toLowerCase(), shown = 0;
+    document.querySelectorAll('.pubs-list li').forEach(function (li) {
+      var hit = !q || li.dataset.search.indexOf(q) !== -1;
+      li.hidden = !hit; if (hit) shown++;
+    });
+    document.querySelectorAll('.pubs-list').forEach(function (ol) {
+      var any = ol.querySelector('li:not([hidden])');
+      ol.hidden = !any; ol.previousElementSibling.hidden = !any;
+    });
+    document.getElementById('pub-empty').style.display = shown ? 'none' : 'block';
+  });
+})();
+</script>

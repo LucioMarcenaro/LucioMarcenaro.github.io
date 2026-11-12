@@ -1,0 +1,8 @@
+{%- comment -%}IEEE author list: "A. B. Family, C. Family, and D. Family". Highlights the site owner.{%- endcomment -%}
+{%- assign n = include.authors | size -%}
+{%- for a in include.authors -%}
+  {%- assign parts = a | split: ", " -%}
+  {%- capture name -%}{% if parts[1] %}{{ parts[1] }} {% endif %}{{ parts[0] }}{%- endcapture -%}
+  {%- if parts[0] == "Marcenaro" -%}<strong>{{ name | escape }}</strong>{%- else -%}{{ name | escape }}{%- endif -%}
+  {%- if n == 2 and forloop.first %} and {% elsif n > 2 and forloop.rindex == 2 %}, and {% elsif forloop.last == false %}, {% endif -%}
+{%- endfor -%}

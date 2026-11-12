@@ -1,0 +1,11 @@
+---
+layout: null
+permalink: /publications.bib
+sitemap: false
+---
+{%- assign items = site.data.publications | sort: "year" | reverse -%}
+% Publications of Lucio Marcenaro ({{ items | size }} entries)
+% {{ site.url }}{{ site.baseurl }}/publications/
+{% for pub in items %}
+{% include pub-bibtex.txt pub=pub %}
+{%- endfor %}

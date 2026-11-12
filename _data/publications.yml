@@ -1,0 +1,3093 @@
+# Publications shown on /publications/ (IEEE style) with per-entry BibTeX.
+# type: article | inproceedings | incollection. Authors as "Family, I.".
+# Add new entries anywhere; the page sorts them by year.
+- key: alemaw2025modeling
+  type: article
+  authors:
+  - "Alemaw, A. S."
+  - "Slavic, G."
+  - "Zontone, P."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Modeling Interactions Between Autonomous Agents in a Multi-Agent Self-Awareness Architecture
+  venue: IEEE Transactions on Multimedia
+  volume: '27'
+  pages: 5035–5049
+  year: 2025
+  doi: 10.1109/tmm.2025.3543110
+- key: obite2025exploring
+  type: article
+  authors:
+  - "Obite, F."
+  - "Krayani, A."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: Exploring Active Inference for Efficient Resource Allocation in AAV-Enabled Cognitive NOMA Uplink
+  venue: IEEE Transactions on Cognitive Communications and Networking
+  volume: '11'
+  number: '4'
+  pages: 2632–2647
+  month: 8
+  year: 2025
+  doi: 10.1109/tccn.2024.3510577
+- key: slavic2025vehicle
+  type: article
+  authors:
+  - "Slavic, G."
+  - "Zontone, P."
+  - "Marcenaro, L."
+  - "Gómez, D. M."
+  - "Regazzoni, C."
+  title: Vehicle localization in an explainable dynamic Bayesian network framework for self-aware agents
+  venue: Information Fusion
+  volume: '122'
+  article_no: '103136'
+  month: 10
+  year: 2025
+  doi: 10.1016/j.inffus.2025.103136
+- key: adnan2024classifying
+  type: inproceedings
+  authors:
+  - "Adnan, M."
+  - "Zontone, P."
+  - "Marcenaro, L."
+  - "Gómez, D. M."
+  - "Regazzoni, C."
+  title: Classifying Static and Dynamic Tracks for LiDAR-Based Navigation of Autonomous Vehicle Systems
+  venue: 2024 9th International Conference on Frontiers of Signal Processing (ICFSP)
+  location: "Paris, France"
+  pages: 111–117
+  month: 9
+  year: 2024
+  doi: 10.1109/icfsp62546.2024.10785465
+- key: alemaw2024integrated
+  type: inproceedings
+  authors:
+  - "Alemaw, A. S."
+  - "Zontone, P."
+  - "Marcenaro, L."
+  - "Marin, P."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Integrated Learning and Decision Making for Autonomous Agents through Energy based Bayesian Models
+  venue: 2024 27th International Conference on Information Fusion (FUSION)
+  location: "Venice, Italy"
+  pages: 1–8
+  month: 7
+  year: 2024
+  doi: 10.23919/fusion59988.2024.10706431
+- key: humayun2024incremental
+  type: inproceedings
+  authors:
+  - "Humayun, M. F."
+  - "Zontone, P."
+  - "Marcenaro, L."
+  - "Gómez, D. M."
+  - "Regazzoni, C."
+  title: Incremental Learning Through Fusion of Discrete Anomaly Models from Odometry Signals in Autonomous Agent Navigation
+  venue: 2024 IEEE Workshop on Signal Processing Systems (SiPS)
+  location: "Cambridge, MA, USA"
+  pages: 83–88
+  month: 11
+  year: 2024
+  doi: 10.1109/sips62058.2024.00023
+- key: krayani2024self
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "Khan, K."
+  - "Marcenaro, L."
+  - "Marchese, M."
+  - "Regazzoni, C."
+  title: Self-Supervised Path Planning in UAV-Aided Wireless Networks Based on Active Inference
+  venue: "2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Seoul, Korea, Republic of"
+  pages: 13181–13185
+  month: 4
+  year: 2024
+  doi: 10.1109/icassp48485.2024.10446575
+- key: memon2024learning
+  type: inproceedings
+  authors:
+  - "Memon, S."
+  - "Krayani, A."
+  - "Zontone, P."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Learning 3D LiDAR Perception Models for Self-Aware Autonomous Systems
+  venue: 2024 27th International Conference on Information Fusion (FUSION)
+  location: "Venice, Italy"
+  pages: 1–8
+  month: 7
+  year: 2024
+  doi: 10.23919/fusion59988.2024.10706364
+- key: nozari2024exploring
+  type: article
+  authors:
+  - "Nozari, S."
+  - "Krayani, A."
+  - "Marin, P."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Exploring action-oriented models via active inference for autonomous vehicles
+  venue: EURASIP Journal on Advances in Signal Processing
+  volume: '2024'
+  number: '1'
+  article_no: '92'
+  month: 10
+  year: 2024
+  doi: 10.1186/s13634-024-01173-9
+- key: nozari2024modeling
+  type: article
+  authors:
+  - "Nozari, S."
+  - "Krayani, A."
+  - "Marin, P."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Modeling Autonomous Vehicle Responses to Novel Observations Using Hierarchical Cognitive Representations Inspired Active Inference
+  venue: Computers
+  volume: '13'
+  number: '7'
+  article_no: '161'
+  month: 6
+  year: 2024
+  doi: 10.3390/computers13070161
+- key: slavic2024joint
+  type: inproceedings
+  authors:
+  - "Slavic, G."
+  - "Bracco, M."
+  - "Marcenaro, L."
+  - "Gómez, D. M."
+  - "Regazzoni, C."
+  - "Zontone, P."
+  title: Joint Data-Driven Analysis of Visual-Odometric Anomaly Signals in Generative Ai-Based Agents
+  venue: "2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)"
+  location: "Seoul, Korea, Republic of"
+  pages: 264–268
+  month: 4
+  year: 2024
+  doi: 10.1109/icasspw62465.2024.10626634
+- key: william2024interactive
+  type: inproceedings
+  authors:
+  - "William, N. J."
+  - "Krayani, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks
+  venue: 2024 IEEE Wireless Communications and Networking Conference (WCNC)
+  location: "Dubai, United Arab Emirates"
+  pages: 1–7
+  month: 4
+  year: 2024
+  doi: 10.1109/wcnc57260.2024.10570781
+- key: adnan2023systematic
+  type: article
+  authors:
+  - "Adnan, M."
+  - "Slavic, G."
+  - "Martin Gomez, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Systematic and Comprehensive Review of Clustering and Multi-Target Tracking Techniques for LiDAR Point Clouds in Autonomous Driving Applications
+  venue: Sensors
+  volume: '23'
+  number: '13'
+  article_no: '6119'
+  month: 7
+  year: 2023
+  doi: 10.3390/s23136119
+- key: esterle2023self
+  type: inproceedings
+  authors:
+  - "Esterle, L."
+  - "Dutt, N."
+  - "Gruhl, C."
+  - "Lewis, P. R."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Jantsch, A."
+  title: "Self-awareness in Cyber-Physical Systems: Recent Developments and Open Challenges"
+  venue: "2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+  location: "Antwerp, Belgium"
+  pages: 1–6
+  month: 4
+  year: 2023
+  doi: 10.23919/date56975.2023.10137197
+- key: krayani2023goal
+  type: article
+  authors:
+  - "Krayani, A."
+  - "Khan, K."
+  - "Marcenaro, L."
+  - "Marchese, M."
+  - "Regazzoni, C."
+  title: A Goal-Directed Trajectory Planning Using Active Inference in UAV-Assisted Wireless Networks
+  venue: Sensors
+  volume: '23'
+  number: '15'
+  article_no: '6873'
+  month: 8
+  year: 2023
+  doi: 10.3390/s23156873
+- key: krayani2023integrated
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "Barabino, G."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Integrated Sensing and Communication for Joint GPS Spoofing and Jamming Detection in Vehicular V2X Networks
+  venue: 2023 IEEE Wireless Communications and Networking Conference (WCNC)
+  location: "Glasgow, United Kingdom"
+  pages: 1–7
+  month: 3
+  year: 2023
+  doi: 10.1109/wcnc55385.2023.10118852
+- key: nozari2023adapting
+  type: inproceedings
+  authors:
+  - "Nozari, S."
+  - "Krayani, A."
+  - "Marin, P."
+  - "Marcenaro, L."
+  - "Martin, D."
+  - "Regazzoni, C."
+  title: Adapting Exploratory Behaviour in Active Inference for Autonomous Driving
+  venue: "2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Rhodes Island, Greece"
+  pages: 1–5
+  month: 6
+  year: 2023
+  doi: 10.1109/icassp49357.2023.10096947
+- key: obite2023active
+  type: inproceedings
+  authors:
+  - "Obite, F."
+  - "Krayani, A."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: Active Inference for Sum Rate Maximization in UAV-Assisted Cognitive NOMA Networks
+  venue: 2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+  location: "Aveiro, Portugal"
+  pages: 1–6
+  month: 10
+  year: 2023
+  doi: 10.1109/wf-iot58464.2023.10539543
+- key: obite2023intelligent
+  type: inproceedings
+  authors:
+  - "Obite, F."
+  - "Krayani, A."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: "Intelligent Resource Allocation for UAV-Based Cognitive NOMA Networks: An Active Inference Approach"
+  venue: 2023 IEEE Future Networks World Forum (FNWF)
+  location: "Baltimore, MD, USA"
+  pages: 1–7
+  month: 11
+  year: 2023
+  doi: 10.1109/fnwf58287.2023.10520397
+- key: salvi2023synthetic
+  type: article
+  authors:
+  - "Salvi, D."
+  - "Borrelli, C."
+  - "Bestagini, P."
+  - "Antonacci, F."
+  - "Stamm, M."
+  - "Marcenaro, L."
+  - "Majumdar, A."
+  title: "Synthetic Speech Attribution: Highlights From the IEEE Signal Processing Cup 2022 Student Competition [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '40'
+  number: '6'
+  pages: 92–98
+  month: 9
+  year: 2023
+  doi: 10.1109/msp.2023.3268823
+- key: slavic2023kalman
+  type: article
+  authors:
+  - "Slavic, G."
+  - "Alemaw, A. S."
+  - "Marcenaro, L."
+  - "Martin Gomez, D."
+  - "Regazzoni, C."
+  title: A Kalman Variational Autoencoder Model Assisted by Odometric Clustering for Video Frame Prediction and Anomaly Detection
+  venue: IEEE Transactions on Image Processing
+  volume: '32'
+  pages: 415–429
+  year: 2023
+  doi: 10.1109/tip.2022.3229620
+- key: apicella2022container
+  type: inproceedings
+  authors:
+  - "Apicella, T."
+  - "Slavic, G."
+  - "Ragusa, E."
+  - "Gastaldo, P."
+  - "Marcenaro, L."
+  title: Container Localisation and Mass Estimation with an RGB-D Camera
+  venue: "2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Singapore, Singapore"
+  pages: 9152–9155
+  month: 5
+  year: 2022
+  doi: 10.1109/icassp43922.2022.9747134
+- key: bjornson2022configuring
+  type: article
+  authors:
+  - "Bjornson, E."
+  - "Marcenaro, L."
+  title: "Configuring an Intelligent Reflecting Surface for Wireless Communications: Highlights from the 2021 IEEE Signal Processing Cup student competition [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '39'
+  number: '1'
+  pages: 126–131
+  month: 1
+  year: 2022
+  doi: 10.1109/msp.2021.3123593
+- key: iqbal2022modeling
+  type: article
+  authors:
+  - "Iqbal, H."
+  - "Campo, D."
+  - "Marin-Plaza, P."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Modeling Perception in Autonomous Vehicles via 3D Convolutional Representations on LiDAR
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  volume: '23'
+  number: '9'
+  pages: 14608–14619
+  month: 9
+  year: 2022
+  doi: 10.1109/tits.2021.3130974
+- key: krayani2022automatic
+  type: article
+  authors:
+  - "Krayani, A."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: Automatic Jamming Signal Classification in Cognitive UAV Radios
+  venue: IEEE Transactions on Vehicular Technology
+  volume: '71'
+  number: '12'
+  pages: 12972–12988
+  month: 12
+  year: 2022
+  doi: 10.1109/tvt.2022.3199038
+- key: krayani2022emergent
+  type: article
+  authors:
+  - "Krayani, A."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: An Emergent Self-Awareness Module for Physical Layer Security in Cognitive UAV Radios
+  venue: IEEE Transactions on Cognitive Communications and Networking
+  volume: '8'
+  number: '2'
+  pages: 888–906
+  month: 6
+  year: 2022
+  doi: 10.1109/tccn.2022.3161937
+- key: krayani2022generalized
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "William, N. J."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Qin, Z."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: Generalized Filtering with Transport Planning for Joint Modulation Conversion and Classification in AI-enabled Radios
+  venue: IEEE International Conference on Communications
+  location: "Seoul, Korea, Republic of"
+  pages: 3759–3765
+  month: 5
+  year: 2022
+  doi: 10.1109/icc45855.2022.9839176
+- key: krayani2022jammer
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "William, N. J."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Jammer Detection in Vehicular V2X Networks
+  venue: 2022 Microwave Mediterranean Symposium (MMS)
+  location: "Pizzo Calabro, Italy"
+  pages: 1–5
+  month: 5
+  year: 2022
+  doi: 10.1109/mms55062.2022.9825566
+- key: krayani2022novel
+  type: article
+  authors:
+  - "Krayani, A."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: "A Novel Resource Allocation for Anti-Jamming in Cognitive-UAVs: An Active Inference Approach"
+  venue: IEEE Communications Letters
+  volume: '26'
+  number: '10'
+  pages: 2272–2276
+  month: 10
+  year: 2022
+  doi: 10.1109/lcomm.2022.3190971
+- key: liu2022privacy
+  type: article
+  authors:
+  - "Liu, S."
+  - "Huang, X."
+  - "Marcenaro, L."
+  - "Ostadabbas, S."
+  title: "Privacy-Preserving in-Bed Human Pose Estimation: Highlights from the IEEE Video and Image Processing Cup 2021 Student Competition [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '39'
+  number: '3'
+  pages: 121–129
+  month: 5
+  year: 2022
+  doi: 10.1109/msp.2021.3139587
+- key: nozari2022active
+  type: article
+  authors:
+  - "Nozari, S."
+  - "Krayani, A."
+  - "Marin-Plaza, P."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Active Inference Integrated With Imitation Learning for Autonomous Driving
+  venue: IEEE Access
+  volume: '10'
+  pages: 49738–49756
+  year: 2022
+  doi: 10.1109/access.2022.3172712
+- key: nozari2022incremental
+  type: inproceedings
+  authors:
+  - "Nozari, S."
+  - "Krayani, A."
+  - "Marcenaro, L."
+  - "Martin, D."
+  - "Regazzoni, C."
+  title: Incremental Learning through Probabilistic Behavior Prediction
+  venue: 2022 30th European Signal Processing Conference (EUSIPCO)
+  location: "Belgrade, Serbia"
+  pages: 1502–1506
+  month: 8
+  year: 2022
+  doi: 10.23919/eusipco55093.2022.9909735
+- key: slavic2022multilevel
+  type: article
+  authors:
+  - "Slavic, G."
+  - "Baydoun, M."
+  - "Campo, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Multilevel Anomaly Detection Through Variational Autoencoders and Bayesian Models for Self-Aware Embodied Agents
+  venue: IEEE Transactions on Multimedia
+  volume: '24'
+  pages: 1399–1414
+  year: 2022
+  doi: 10.1109/tmm.2021.3065232
+- key: thekkekanapram2022graph
+  type: article
+  authors:
+  - "Thekke Kanapram, D."
+  - "Marcenaro, L."
+  - "Martin Gomez, D."
+  - "Regazzoni, C."
+  title: Graph-Powered Interpretable Machine Learning Models for Abnormality Detection in Ego-Things Network
+  venue: Sensors
+  volume: '22'
+  number: '6'
+  article_no: '2260'
+  month: 3
+  year: 2022
+  doi: 10.3390/s22062260
+- key: thomaz2022automatic
+  type: article
+  authors:
+  - "Thomaz, L. A."
+  - "Faria, S. M. M."
+  - "Tavora, L. M. N."
+  - "Marcenaro, L."
+  title: "Automatic Medical Image Diagnosis: Highlights from the 2021 IEEE 5-Minute Video Clip Contest [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '39'
+  number: '3'
+  pages: 130–134
+  month: 5
+  year: 2022
+  doi: 10.1109/msp.2022.3145348
+- key: iqbal2021data
+  type: article
+  authors:
+  - "Iqbal, H."
+  - "Campo, D."
+  - "Marcenaro, L."
+  - "Martin Gomez, D."
+  - "Regazzoni, C."
+  title: Data-driven transition matrix estimation in probabilistic learning models for autonomous driving
+  venue: Signal Processing
+  volume: '188'
+  article_no: '108170'
+  month: 11
+  year: 2021
+  doi: 10.1016/j.sigpro.2021.108170
+- key: iqbal2021detection
+  type: inproceedings
+  authors:
+  - "Iqbal, H."
+  - "Al-Kaff, A."
+  - "Marin, P."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Detection of Abnormal Motion by Estimating Scene Flows of Point Clouds for Autonomous Driving
+  venue: 2021 IEEE International Intelligent Transportation Systems Conference (ITSC)
+  location: "Indianapolis, IN, USA"
+  pages: 2788–2793
+  month: 9
+  year: 2021
+  doi: 10.1109/itsc48978.2021.9565105
+- key: kanapram2021dynamic
+  type: article
+  authors:
+  - "Kanapram, D. T."
+  - "Marchese, M."
+  - "Bodanese, E. L."
+  - "Gomez, D. M."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Dynamic Bayesian Collective Awareness Models for a Network of Ego-Things
+  venue: IEEE Internet of Things Journal
+  volume: '8'
+  number: '5'
+  pages: 3224–3241
+  month: 3
+  year: 2021
+  doi: 10.1109/jiot.2020.3043199
+- key: krayani2021automatic
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "Alam, A. S."
+  - "Calipari, M."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: Automatic Modulation Classification in Cognitive-IoT Radios using Generalized Dynamic Bayesian Networks
+  venue: 2021 IEEE 7th World Forum on Internet of Things (WF-IoT)
+  location: "New Orleans, LA, USA"
+  pages: 235–240
+  month: 6
+  year: 2021
+  doi: 10.1109/wf-iot51360.2021.9594936
+- key: nozari2021observational
+  type: inproceedings
+  authors:
+  - "Nozari, S."
+  - "Marcenaro, L."
+  - "Martin, D."
+  - "Regazzoni, C."
+  title: "Observational Learning: Imitation Through an Adaptive Probabilistic Approach"
+  venue: 2021 IEEE International Conference on Autonomous Systems (ICAS)
+  location: "Montreal, QC, Canada"
+  pages: 1–5
+  month: 8
+  year: 2021
+  doi: 10.1109/icas49788.2021.9551152
+- key: patino2021pets
+  type: inproceedings
+  authors:
+  - "Patino, L."
+  - "Boyle, J."
+  - "Ferryman, J."
+  - "Auer, J."
+  - "Pegoraro, J."
+  - "Pflugfelder, R."
+  - "Cokbas, M."
+  - "Konrad, J."
+  - "Ishwar, P."
+  - "Slavic, G."
+  - "Marcenaro, L."
+  - "Jiang, Y."
+  - "Jin, Y."
+  - "Ko, H."
+  - "Zhao, G."
+  - "Ben-Yosef, G."
+  - "Qiu, J."
+  title: "PETS2021: Through-foliage detection and tracking challenge and evaluation"
+  venue: 2021 17th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Washington, DC, USA"
+  pages: 1–10
+  month: 11
+  year: 2021
+  doi: 10.1109/avss52988.2021.9663837
+- key: ravanbakhsh2021learning
+  type: article
+  authors:
+  - "Ravanbakhsh, M."
+  - "Baydoun, M."
+  - "Campo, D."
+  - "Marin, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: "Learning Self-Awareness for Autonomous Vehicles: Exploring Multisensory Incremental Models"
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  volume: '22'
+  number: '6'
+  pages: 3372–3386
+  month: 6
+  year: 2021
+  doi: 10.1109/tits.2020.2984735
+- key: routtenberg2021fight
+  type: article
+  authors:
+  - "Routtenberg, T."
+  - "Carini, A."
+  - "Chouzenoux, E."
+  - "Pal, P."
+  - "Bermudez, J. C. M."
+  - "Marcenaro, L."
+  title: "Fight the Pandemic: Highlights From the 2020 IEEE 5-Minute Video Clip Contest [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '38'
+  number: '2'
+  pages: 138–143
+  month: 3
+  year: 2021
+  doi: 10.1109/msp.2020.3046230
+- key: slavic2021interpretable
+  type: inproceedings
+  authors:
+  - "Slavic, G."
+  - "Marin, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Interpretable Anomaly Detection Using A Generalized Markov Jump Particle Filter
+  venue: 2021 IEEE International Conference on Autonomous Systems (ICAS)
+  location: "Montreal, QC, Canada"
+  pages: 1–5
+  month: 8
+  year: 2021
+  doi: 10.1109/icas49788.2021.9551111
+- key: slavic2021learning
+  type: inproceedings
+  authors:
+  - "Slavic, G."
+  - "Alemaw, A. S."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Learning Of Linear Video Prediction Models In A Multi-Modal Framework For Anomaly Detection
+  venue: 2021 IEEE International Conference on Image Processing (ICIP)
+  location: "Anchorage, AK, USA"
+  pages: 1569–1573
+  month: 9
+  year: 2021
+  doi: 10.1109/icip42928.2021.9506049
+- key: wang2021future
+  type: inproceedings
+  authors:
+  - "Wang, Y."
+  - "Pitas, I."
+  - "Plataniotis, K. N."
+  - "Regazzoni, C. S."
+  - "Sadler, B. M."
+  - "Roy-Chowdhury, A."
+  - "Hou, M."
+  - "Mohammadi, A."
+  - "Marcenaro, L."
+  - "Atashzar, F."
+  - "alZahir, S."
+  title: "On Future Development of Autonomous Systems: A Report of the Plenary Panel at IEEE ICAS’21"
+  venue: 2021 IEEE International Conference on Autonomous Systems (ICAS)
+  location: "Montreal, QC, Canada"
+  pages: 1–9
+  month: 8
+  year: 2021
+  doi: 10.1109/icas49788.2021.9551188
+- key: wang2021perspectives
+  type: inproceedings
+  authors:
+  - "Wang, Y."
+  - "Plataniotis, K. N."
+  - "Mohammadi, A."
+  - "Marcenaro, L."
+  - "Asif, A."
+  - "Hou, M."
+  - "Leung, H."
+  - "Gavrilova, M."
+  title: Perspectives on the Emerging Field of Autonomous Systems and its Theoretical Foundations
+  venue: 2021 IEEE International Conference on Autonomous Systems (ICAS)
+  location: "Montreal, QC, Canada"
+  pages: 1–5
+  month: 8
+  year: 2021
+  doi: 10.1109/icas49788.2021.9551191
+- key: campo2020continual
+  type: inproceedings
+  authors:
+  - "Campo, D."
+  - "Slavic, G."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Continual Learning Of Predictive Models In Video Sequences Via Variational Autoencoders
+  venue: 2020 IEEE International Conference on Image Processing (ICIP)
+  location: "Abu Dhabi, United Arab Emirates"
+  pages: 753–757
+  month: 10
+  year: 2020
+  doi: 10.1109/icip40778.2020.9190980
+- key: campo2020learning
+  type: article
+  authors:
+  - "Campo, D."
+  - "Baydoun, M."
+  - "Marin, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "de la Escalera, A."
+  - "Regazzoni, C."
+  title: Learning Probabilistic Awareness Models for Detecting Abnormalities in Vehicle Motions
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  volume: '21'
+  number: '3'
+  pages: 1308–1320
+  month: 3
+  year: 2020
+  doi: 10.1109/tits.2019.2909980
+- key: campo2020unsupervised
+  type: article
+  authors:
+  - "Campo, D."
+  - "Martin, D."
+  - "Marcenaro, L."
+  title: "Unsupervised Anomaly Detection Using Intelligent and Heterogeneous Autonomous Systems: Highlights From the 2020 IEEE Signal Processing Cup Student Competition [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '37'
+  number: '5'
+  pages: 152–157
+  month: 9
+  year: 2020
+  doi: 10.1109/msp.2020.3002482
+- key: iqbal2020optimization
+  type: inproceedings
+  authors:
+  - "Iqbal, H."
+  - "Campo, D."
+  - "Slavic, G."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Optimization of Probabilistic Switching Models Based on a Two-Step Clustering Approach
+  venue: 2020 IEEE Workshop on Signal Processing Systems (SiPS)
+  location: "Coimbra, Portugal"
+  pages: 1–6
+  month: 10
+  year: 2020
+  doi: 10.1109/sips50750.2020.9195244
+- key: kanapram2020self
+  type: article
+  authors:
+  - "Kanapram, D. T."
+  - "Marin-Plaza, P."
+  - "Marcenaro, L."
+  - "Martin, D."
+  - "de la Escalera, A."
+  - "Regazzoni, C."
+  title: "Self-awareness in intelligent vehicles: Feature based dynamic Bayesian models for abnormality detection"
+  venue: Robotics and Autonomous Systems
+  volume: '134'
+  article_no: '103652'
+  month: 12
+  year: 2020
+  doi: 10.1016/j.robot.2020.103652
+- key: krayani2020self
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Alam, A. S."
+  - "Regazzoni, C."
+  title: Self-Learning Bayesian Generative Models for Jammer Detection in Cognitive-UAV-Radios
+  venue: 2020 IEEE Global Communications Conference
+  location: "Taipei, Taiwan"
+  pages: 1–7
+  month: 12
+  year: 2020
+  doi: 10.1109/globecom42002.2020.9322583
+- key: krayani2020smart
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Gao, Y."
+  - "Regazzoni, C. S."
+  title: Smart Jammer Detection for Self-Aware Cognitive UAV Radios
+  venue: "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications"
+  location: "London, United Kingdom"
+  pages: 1–7
+  month: 8
+  year: 2020
+  doi: 10.1109/pimrc48278.2020.9217331
+- key: liu2020let
+  type: article
+  authors:
+  - "Liu, W."
+  - "Anbiyaei, M. R."
+  - "Jiang, X."
+  - "Zhang, L."
+  - "Marcenaro, L."
+  title: "Let There Be a Beam: Highlights From the 2020 IEEE Five-Minute Video Clip Contest [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '37'
+  number: '5'
+  pages: 157–162
+  month: 9
+  year: 2020
+  doi: 10.1109/msp.2020.3002485
+- key: regazzoni2020multisensorial
+  type: article
+  authors:
+  - "Regazzoni, C. S."
+  - "Marcenaro, L."
+  - "Campo, D."
+  - "Rinner, B."
+  title: Multisensorial Generative and Descriptive Self-Awareness Models for Autonomous Systems
+  venue: Proceedings of the IEEE
+  volume: '108'
+  number: '7'
+  pages: 987–1010
+  month: 7
+  year: 2020
+  doi: 10.1109/jproc.2020.2986602
+- key: slavic2020anomaly
+  type: inproceedings
+  authors:
+  - "Slavic, G."
+  - "Campo, D."
+  - "Baydoun, M."
+  - "Marin, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Anomaly Detection in Video Data Based on Probabilistic Latent Space Models
+  venue: 2020 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)
+  location: "Bari, Italy"
+  pages: 1–8
+  month: 5
+  year: 2020
+  doi: 10.1109/eais48028.2020.9122766
+- key: tadesse2020privacy
+  type: article
+  authors:
+  - "Tadesse, G. A."
+  - "Bent, O."
+  - "Marcenaro, L."
+  - "Weldemariam, K."
+  - "Cavallaro, A."
+  title: "Privacy-Aware Human Activity Recognition From a Wearable Camera: Highlights From the IEEE Video And Image Processing Cup 2019 Student Competition [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '37'
+  number: '3'
+  pages: 168–172
+  month: 5
+  year: 2020
+  doi: 10.1109/msp.2020.2976158
+- key: thekkekanapram2020collective
+  type: article
+  authors:
+  - "Thekke Kanapram, D."
+  - "Patrone, F."
+  - "Marin-Plaza, P."
+  - "Marchese, M."
+  - "Bodanese, E. L."
+  - "Marcenaro, L."
+  - "Martin Gomez, D."
+  - "Regazzoni, C."
+  title: Collective Awareness for Abnormality Detection in Connected Autonomous Vehicles
+  venue: IEEE Internet of Things Journal
+  volume: '7'
+  number: '5'
+  pages: 3774–3789
+  month: 5
+  year: 2020
+  doi: 10.1109/jiot.2020.2974680
+- key: toma2020ai
+  type: article
+  authors:
+  - "Toma, A."
+  - "Krayani, A."
+  - "Farrukh, M."
+  - "Qi, H."
+  - "Marcenaro, L."
+  - "Gao, Y."
+  - "Regazzoni, C. S."
+  title: AI-Based Abnormality Detection at the PHY-Layer of Cognitive Radio by Learning Generative Models
+  venue: IEEE Transactions on Cognitive Communications and Networking
+  volume: '6'
+  number: '1'
+  pages: 21–34
+  month: 3
+  year: 2020
+  doi: 10.1109/tccn.2020.2970693
+- key: toma2020deep
+  type: inproceedings
+  authors:
+  - "Toma, A."
+  - "Krayani, A."
+  - "Marcenaro, L."
+  - "Gao, Y."
+  - "Regazzoni, C. S."
+  title: Deep Learning for Spectrum Anomaly Detection in Cognitive mmWave Radios
+  venue: "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications"
+  location: "London, United Kingdom"
+  pages: 1–7
+  month: 8
+  year: 2020
+  doi: 10.1109/pimrc48278.2020.9217240
+- key: amar2019cheap
+  type: inproceedings
+  authors:
+  - "Amar, Y."
+  - "Tyson, G."
+  - "Antichi, G."
+  - "Marcenaro, L."
+  title: Towards Cheap Scalable Browser Multiplayer
+  venue: 2019 IEEE Conference on Games (CoG)
+  location: "London, United Kingdom"
+  pages: 1–4
+  month: 8
+  year: 2019
+  doi: 10.1109/cig.2019.8847958
+- key: baydoun2019prediction
+  type: inproceedings
+  authors:
+  - "Baydoun, M."
+  - "Campo, D."
+  - "Kanapram, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: "Prediction of Multi-target Dynamics Using Discrete Descriptors: an Interactive Approach"
+  venue: "2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Brighton, United Kingdom"
+  pages: 3342–3346
+  month: 5
+  year: 2019
+  doi: 10.1109/icassp.2019.8682272
+- key: davisowusu2019deeper
+  type: incollection
+  authors:
+  - "Davis-Owusu, K."
+  - "Owusu, E."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Feijs, L."
+  - "Hu, J."
+  title: Towards a Deeper Understanding of the Behavioural Implications of Bidirectional Activity-Based Ambient Displays in Ambient Assisted Living Environments
+  venue: Lecture Notes in Computer Science
+  publisher: Springer International Publishing
+  pages: 108–151
+  year: 2019
+  doi: 10.1007/978-3-030-10752-9_6
+- key: deleforge2019audio
+  type: article
+  authors:
+  - "Deleforge, A."
+  - "Di Carlo, D."
+  - "Strauss, M."
+  - "Serizel, R."
+  - "Marcenaro, L."
+  title: "Audio-Based Search and Rescue With a Drone: Highlights From the IEEE Signal Processing Cup 2019 Student Competition [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '36'
+  number: '5'
+  pages: 138–144
+  month: 9
+  year: 2019
+  doi: 10.1109/msp.2019.2924687
+- key: farrukh2019learning
+  type: inproceedings
+  authors:
+  - "Farrukh, M."
+  - "Krayani, A."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Gao, Y."
+  - "Regazzoni, C. S."
+  title: Learning a Switching Bayesian Model for Jammer Detection in the Cognitive-Radio-Based Internet of Things
+  venue: 2019 IEEE 5th World Forum on Internet of Things (WF-IoT)
+  location: "Limerick, Ireland"
+  pages: 380–385
+  month: 4
+  year: 2019
+  doi: 10.1109/wf-iot.2019.8767187
+- key: hu2019guest
+  type: article
+  authors:
+  - "Hu, J."
+  - "Liang, R. H."
+  - "Shih, C. S."
+  - "Catala, A."
+  - "Marcenaro, L."
+  - "Osawa, H."
+  title: "Guest Editorial: Social and Human Aspects of Cyber‐Physical Systems"
+  venue: "IET Cyber-Physical Systems: Theory & Applications"
+  volume: '4'
+  number: '3'
+  pages: 187–188
+  month: 9
+  year: 2019
+  doi: 10.1049/iet-cps.2019.0061
+- key: iqbal2019clustering
+  type: inproceedings
+  authors:
+  - "Iqbal, H."
+  - "Campo, D."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: Clustering Optimization for Abnormality Detection in Semi-Autonomous Systems
+  venue: 1st International Workshop on Multimodal Understanding and Learning for Embodied Applications
+  location: Nice France
+  pages: 33–41
+  month: 10
+  year: 2019
+  doi: 10.1145/3347450.3357657
+- key: kanapram2019dynamic
+  type: inproceedings
+  authors:
+  - "Kanapram, D."
+  - "Campo, D."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Bodanese, E. L."
+  - "Regazzoni, C."
+  - "Marchese, M."
+  title: Dynamic Bayesian Approach for decision-making in Ego-Things
+  venue: 2019 IEEE 5th World Forum on Internet of Things (WF-IoT)
+  location: "Limerick, Ireland"
+  pages: 909–914
+  month: 4
+  year: 2019
+  doi: 10.1109/wf-iot.2019.8767204
+- key: kanapram2019self
+  type: inproceedings
+  authors:
+  - "Kanapram, D."
+  - "Marin-Plaza, P."
+  - "Marcenaro, L."
+  - "Martin, D."
+  - "de la Escalera, A."
+  - "Regazzoni, C."
+  title: "Self-awareness in Intelligent Vehicles: Experience Based Abnormality Detection"
+  venue: Advances in Intelligent Systems and Computing
+  pages: 216–228
+  month: 11
+  year: 2019
+  doi: 10.1007/978-3-030-35990-4_18
+- key: krayani2019jammer
+  type: inproceedings
+  authors:
+  - "Krayani, A."
+  - "Farrukh, M."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Gao, Y."
+  - "S.Regazzoni, C."
+  title: Jammer detection in M-QAM-OFDM by learning a Dynamic Bayesian Model for the Cognitive Radio
+  venue: 2019 27th European Signal Processing Conference (EUSIPCO)
+  location: "A Coruna, Spain"
+  pages: 1–5
+  month: 9
+  year: 2019
+  doi: 10.23919/eusipco.2019.8902495
+- key: toma2019exploiting
+  type: incollection
+  authors:
+  - "Toma, A."
+  - "Nawaz, T."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Gao, Y."
+  title: Exploiting ST-Based Representation for High Sampling Rate Dynamic Signals
+  venue: Lecture Notes on Data Engineering and Communications Technologies
+  publisher: Springer International Publishing
+  pages: 203–217
+  year: 2019
+  doi: 10.1007/978-3-030-11437-4_16
+- key: toma2019interference
+  type: article
+  authors:
+  - "Toma, A."
+  - "Nawaz, T."
+  - "Gao, Y."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Interference mitigation in wideband radios using spectrum correlation and neural network
+  venue: IET Communications
+  volume: '13'
+  number: '10'
+  pages: 1336–1347
+  month: 6
+  year: 2019
+  doi: 10.1049/iet-com.2018.5720
+- key: toma2019learning
+  type: incollection
+  authors:
+  - "Toma, A."
+  - "Regazzoni, C."
+  - "Marcenaro, L."
+  - "Gao, Y."
+  title: Learning Dynamic Jamming Models in Cognitive Radios
+  venue: Handbook of Cognitive Radio
+  publisher: Springer Singapore
+  pages: 1987–2023
+  year: 2019
+  doi: 10.1007/978-981-10-1394-2_64
+- key: ullah2019secure
+  type: article
+  authors:
+  - "Ullah, S."
+  - "Marcenaro, L."
+  - "Rinner, B."
+  title: Secure Smart Cameras by Aggregate-Signcryption with Decryption Fairness for Multi-Receiver IoT Applications
+  venue: Sensors
+  volume: '19'
+  number: '2'
+  article_no: '327'
+  month: 1
+  year: 2019
+  doi: 10.3390/s19020327
+- key: zaal2019abnormality
+  type: inproceedings
+  authors:
+  - "Zaal, H."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Tokarchuk, L."
+  - "Regazzoni, C. S."
+  title: Abnormality Detection using Graph Matching for Multi-Task Dynamics of Autonomous Systems
+  venue: 2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Taipei, Taiwan"
+  pages: 1–8
+  month: 9
+  year: 2019
+  doi: 10.1109/avss.2019.8909908
+- key: zaal2019incremental
+  type: inproceedings
+  authors:
+  - "Zaal, H."
+  - "Iqbal, H."
+  - "Campo, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Incremental Learning of Abnormalities in Autonomous Systems
+  venue: 2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Taipei, Taiwan"
+  pages: 1–8
+  month: 9
+  year: 2019
+  doi: 10.1109/avss.2019.8909827
+- key: baydoun2018learning
+  type: inproceedings
+  authors:
+  - "Baydoun, M."
+  - "Campo, D."
+  - "Sanguineti, V."
+  - "Marcenaro, L."
+  - "Cavallaro, A."
+  - "Regazzoni, C."
+  title: Learning Switching Models for Abnormality Detection for Autonomous Driving
+  venue: 2018 21st International Conference on Information Fusion (FUSION)
+  location: Cambridge
+  pages: 2606–2613
+  month: 7
+  year: 2018
+  doi: 10.23919/icif.2018.8455592
+- key: baydoun2018multi
+  type: inproceedings
+  authors:
+  - "Baydoun, M."
+  - "Ravanbakhsh, M."
+  - "Campo, D."
+  - "Marin, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "Cavallaro, A."
+  - "Regazzoni, C. S."
+  title: a Multi-Perspective Approach to Anomaly Detection for Self -Aware Embodied Agents
+  venue: "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Calgary, AB"
+  pages: 6598–6602
+  month: 4
+  year: 2018
+  doi: 10.1109/icassp.2018.8462490
+- key: campo2018unsupervised
+  type: inproceedings
+  authors:
+  - "Campo, D."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Cavallaro, A."
+  - "Regazzoni, C. S."
+  title: Unsupervised Trajectory Modeling Based on Discrete Descriptors for Classifying Moving Objects in Video Sequences
+  venue: 2018 25th IEEE International Conference on Image Processing (ICIP)
+  location: Athens
+  pages: 833–837
+  month: 10
+  year: 2018
+  doi: 10.1109/icip.2018.8451837
+- key: irfan2018anomaly
+  type: inproceedings
+  authors:
+  - "Irfan, M."
+  - "Tokarchuk, L."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: ANOMALY DETECTION IN CROWDS USING MULTI SENSORY INFORMATION
+  venue: 2018 15th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Auckland, New Zealand"
+  pages: 1–6
+  month: 11
+  year: 2018
+  doi: 10.1109/avss.2018.8639151
+- key: ravanbakhsh2018fast
+  type: inproceedings
+  authors:
+  - "Ravanbakhsh, M."
+  - "Mousavi, H."
+  - "Nabi, M."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: "Fast but Not Deep: Efficient Crowd Abnormality Detection with Local Binary Tracklets"
+  venue: 2018 15th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Auckland, New Zealand"
+  month: 11
+  year: 2018
+  doi: 10.1109/avss.2018.8639172
+- key: ravanbakhsh2018hierarchy
+  type: inproceedings
+  authors:
+  - "Ravanbakhsh, M."
+  - "Baydoun, M."
+  - "Campo, D."
+  - "Marin, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Hierarchy of Gans for Learning Embodied Self-Awareness Model
+  venue: 2018 25th IEEE International Conference on Image Processing (ICIP)
+  location: Athens
+  pages: 1987–1991
+  month: 10
+  year: 2018
+  doi: 10.1109/icip.2018.8451418
+- key: ravanbakhsh2018learning
+  type: inproceedings
+  authors:
+  - "Ravanbakhsh, M."
+  - "Baydoun, M."
+  - "Campo, D."
+  - "Marin, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Learning Multi-Modal Self-Awareness Models for Autonomous Vehicles from Human Driving
+  venue: 2018 21st International Conference on Information Fusion (FUSION)
+  location: "Cambridge, United Kingdom"
+  pages: 1866–1873
+  month: 7
+  year: 2018
+  doi: 10.23919/icif.2018.8455667
+- key: stamm2018forensic
+  type: article
+  authors:
+  - "Stamm, M."
+  - "Bestagini, P."
+  - "Marcenaro, L."
+  - "Campisi, P."
+  title: "Forensic Camera Model Identification: Highlights from the IEEE Signal Processing Cup 2018 Student Competition [SP Competitions]"
+  venue: IEEE Signal Processing Magazine
+  volume: '35'
+  number: '5'
+  pages: 168–174
+  month: 9
+  year: 2018
+  doi: 10.1109/msp.2018.2847326
+- key: ullah2018aggregate
+  type: inproceedings
+  authors:
+  - "Ullah, S."
+  - "Russo, F."
+  - "Marcenaro, L."
+  - "Rinner, B."
+  title: Aggregate-Signcryption for Securing Smart Camera IoT Applications
+  venue: 2018 Global Internet of Things Summit (GIoTS)
+  location: Bilbao
+  pages: 1–6
+  month: 6
+  year: 2018
+  doi: 10.1109/giots.2018.8534434
+- key: urizar2018emotion
+  type: inproceedings
+  authors:
+  - "Urizar, O. J."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  - "Barakova, E. I."
+  - "Rauterberg, M."
+  title: "Emotion Estimation in Crowds: The Interplay of Motivations and Expectations in Individual Emotions"
+  venue: 2018 26th European Signal Processing Conference (EUSIPCO)
+  location: Rome
+  pages: 1092–1096
+  month: 9
+  year: 2018
+  doi: 10.23919/eusipco.2018.8553370
+- key: azzoni2017security
+  type: incollection
+  authors:
+  - "Azzoni, P."
+  - "Geretti, L."
+  - "Abramo, A."
+  - "Stefanidis, K."
+  - "Gialelis, J."
+  - "Papalambrou, A."
+  - "Serpanos, D."
+  - "Rantos, K."
+  - "Toma, A."
+  - "Tassadaq, T."
+  - "Dabcevic, K."
+  - "Regazzoni, C. S."
+  - "Marcenaro, L."
+  - "Traversone, M."
+  - "Cesena, M."
+  - "Mignanti, S."
+  title: "Security, privacy, and dependability technologies"
+  venue: "Measurable and Composable Security, Privacy, and Dependability for Cyberphysical Systems: The SHIELD Methodology"
+  publisher: CRC Press
+  location: "Boca Raton, FL, USA"
+  pages: 30–103
+  year: 2017
+  doi: 10.1201/9781138042858
+- key: baydoun2017hand
+  type: inproceedings
+  authors:
+  - "Baydoun, M."
+  - "Betancourt, A."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  title: Hand pose recognition in First Person Vision through graph spectral analysis
+  venue: "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "New Orleans, LA"
+  pages: 1872–1876
+  month: 3
+  year: 2017
+  doi: 10.1109/icassp.2017.7952481
+- key: betancourt2017left
+  type: article
+  authors:
+  - "Betancourt, A."
+  - "Morerio, P."
+  - "Barakova, E."
+  - "Marcenaro, L."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  title: Left/right hand segmentation in egocentric videos
+  venue: Computer Vision and Image Understanding
+  volume: '154'
+  pages: 73–81
+  month: 1
+  year: 2017
+  doi: 10.1016/j.cviu.2016.09.005
+- key: betancourt2017unsupervised
+  type: article
+  authors:
+  - "Betancourt, A."
+  - "Díaz-Rodríguez, N."
+  - "Barakova, E."
+  - "Marcenaro, L."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  title: Unsupervised understanding of location and illumination changes in egocentric videos
+  venue: Pervasive and Mobile Computing
+  volume: '40'
+  pages: 414–429
+  month: 9
+  year: 2017
+  doi: 10.1016/j.pmcj.2017.03.016
+- key: campo2017modeling
+  type: inproceedings
+  authors:
+  - "Campo, D."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Cavallaro, A."
+  - "Regazzoni, C. S."
+  title: Modeling and classification of trajectories based on a Gaussian process decomposition into discrete components
+  venue: 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Lecce, Italy"
+  pages: 1–6
+  month: 8
+  year: 2017
+  doi: 10.1109/avss.2017.8078495
+- key: campo2017static
+  type: article
+  authors:
+  - "Campo, D."
+  - "Betancourt, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Static force field representation of environments based on agents’ nonlinear motions
+  venue: EURASIP Journal on Advances in Signal Processing
+  volume: '2017'
+  number: '1'
+  article_no: '13'
+  month: 12
+  year: 2017
+  doi: 10.1186/s13634-017-0444-5
+- key: campo2017task
+  type: inproceedings
+  authors:
+  - "Campo, D."
+  - "Baydoun, M."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Task-dependent saliency estimation from trajectories of agents in video sequences
+  venue: 2017 IEEE International Conference on Image Processing (ICIP)
+  location: Beijing
+  pages: 4252–4256
+  month: 9
+  year: 2017
+  doi: 10.1109/icip.2017.8297084
+- key: cesena2017shield
+  type: incollection
+  authors:
+  - "Cesena, M."
+  - "Regazzoni, C. S."
+  - "Marcenaro, L."
+  - "Toma, A."
+  - "Tassadaq, T."
+  - "Dabcevic, K."
+  - "Hatzivasilis, G."
+  - "Fysarakis, K."
+  - "Manifavas, C."
+  - "Papaefstathiou, I."
+  - "Azzoni, P."
+  - "Stefanidis, K."
+  title: SHIELD technology demonstrators
+  venue: "Measurable and Composable Security, Privacy, and Dependability for Cyberphysical Systems: The SHIELD Methodology"
+  publisher: CRC Press
+  location: "Boca Raton, FL, USA"
+  pages: 360–411
+  year: 2017
+  doi: 10.1201/9781138042858
+- key: davis2017effects
+  type: article
+  authors:
+  - "Davis, K."
+  - "Owusu, E. B."
+  - "Marcenaro, L."
+  - "Feijs, L."
+  - "Regazzoni, C."
+  - "Hu, J."
+  title: Effects of Ambient Lighting Displays on Peripheral Activity Awareness
+  venue: IEEE Access
+  volume: '5'
+  pages: 9318–9335
+  year: 2017
+  doi: 10.1109/access.2017.2703866
+- key: davis2017evaluating
+  type: inproceedings
+  authors:
+  - "Davis, K."
+  - "Owusu, E."
+  - "Marcenaro, L."
+  - "Feijs, L."
+  - "Regazzoni, C."
+  - "Hu, J."
+  title: Evaluating Human Activity-Based Ambient Lighting Displays for Effective Peripheral Communication
+  venue: 11th International Conference on Body Area Networks
+  location: "Turin, Italy"
+  year: 2017
+  doi: 10.4108/eai.15-12-2016.2267663
+- key: davis2017presenting
+  type: inproceedings
+  authors:
+  - "Davis, K."
+  - "Owusu, E."
+  - "van den Boomen, G."
+  - "Apeldoorn, H."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Feijs, L."
+  - "Hu, J."
+  title: Presenting a Real-Time Activity-Based Bidirectional Framework for Improving Social Connectedness
+  venue: Lecture Notes in Computer Science
+  pages: 356–367
+  year: 2017
+  doi: 10.1007/978-3-319-59147-6_31
+- key: lim2017designing
+  type: article
+  authors:
+  - "Lim, V."
+  - "Funk, M."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Rauterberg, M."
+  title: "Designing for action: An evaluation of Social Recipes in reducing food waste"
+  venue: International Journal of Human-Computer Studies
+  volume: '100'
+  pages: 18–32
+  month: 4
+  year: 2017
+  doi: 10.1016/j.ijhcs.2016.12.005
+- key: mughal2017energy
+  type: article
+  authors:
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Energy Detection in Multi-user Relay Networks
+  venue: Wireless Personal Communications
+  volume: '97'
+  number: '3'
+  pages: 3891–3900
+  month: 12
+  year: 2017
+  doi: 10.1007/s11277-017-4705-2
+- key: nawaz2017cyclostationary
+  type: article
+  authors:
+  - "Nawaz, T."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Cyclostationary-based jammer detection for wideband radios using compressed sensing and artificial neural network
+  venue: International Journal of Distributed Sensor Networks
+  volume: '13'
+  number: '12'
+  article_no: '155014771774890'
+  month: 12
+  year: 2017
+  doi: 10.1177/1550147717748900
+- key: nawaz2017defense
+  type: inproceedings
+  authors:
+  - "Nawaz, T."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Defense against jamming attacks in wide-band radios using cyclic spectral analysis and compressed sensing
+  venue: 2017 Ninth International Conference on Ubiquitous and Future Networks (ICUFN)
+  location: Milan
+  pages: 874–879
+  month: 7
+  year: 2017
+  doi: 10.1109/icufn.2017.7993925
+- key: nawaz2017defenseb
+  type: inproceedings
+  authors:
+  - "Nawaz, T."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: "Defense against stealthy jamming attacks in wide-band radios: A physical layer approach"
+  venue: 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP)
+  location: "Montreal, QC"
+  pages: 497–501
+  month: 11
+  year: 2017
+  doi: 10.1109/globalsip.2017.8308692
+- key: nawaz2017jammer
+  type: inproceedings
+  authors:
+  - "Nawaz, T."
+  - "Campo, D."
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Jammer detection algorithm for wide-band radios using spectral correlation and neural networks
+  venue: 2017 13th International Wireless Communications and Mobile Computing Conference (IWCMC)
+  location: "Valencia, Spain"
+  pages: 246–251
+  month: 6
+  year: 2017
+  doi: 10.1109/iwcmc.2017.7986294
+- key: nawaz2017stealthy
+  type: inproceedings
+  authors:
+  - "Nawaz, T."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: "Stealthy jammer detection algorithm for wide-band radios: A physical layer approach"
+  venue: "2017 IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)"
+  location: Rome
+  pages: 79–83
+  month: 10
+  year: 2017
+  doi: 10.1109/wimob.2017.8115792
+- key: olier2017active
+  type: inproceedings
+  authors:
+  - "Olier, J. S."
+  - "Campo, D. A."
+  - "Marcenaro, L."
+  - "Barakova, E."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  title: Active estimation of motivational spots for modeling dynamic interactions
+  venue: 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Lecce, Italy"
+  pages: 1–6
+  month: 8
+  year: 2017
+  doi: 10.1109/avss.2017.8078524
+- key: olier2017dynamic
+  type: inproceedings
+  authors:
+  - "Olier, J. S."
+  - "Marin-Plaza, P."
+  - "Martin, D."
+  - "Marcenaro, L."
+  - "Barakova, E."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  title: Dynamic representations for autonomous driving
+  venue: 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Lecce, Italy"
+  pages: 1–6
+  month: 8
+  year: 2017
+  doi: 10.1109/avss.2017.8078511
+- key: olier2017grounded
+  type: inproceedings
+  authors:
+  - "Olier, J. S."
+  - "Barakova, E."
+  - "Rauterberg, M."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Grounded representations through deep variational inference and dynamic programming
+  venue: 2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+  location: Lisbon
+  pages: 277–282
+  month: 9
+  year: 2017
+  doi: 10.1109/devlrn.2017.8329818
+- key: ravanbakhsh2017abnormal
+  type: inproceedings
+  authors:
+  - "Ravanbakhsh, M."
+  - "Nabi, M."
+  - "Sangineto, E."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Sebe, N."
+  title: Abnormal event detection in videos using generative adversarial nets
+  venue: 2017 IEEE International Conference on Image Processing (ICIP)
+  location: Beijing
+  pages: 1577–1581
+  month: 9
+  year: 2017
+  doi: 10.1109/icip.2017.8296547
+- key: ullah2017smart
+  type: inproceedings
+  authors:
+  - "Ullah, S."
+  - "Rinner, B."
+  - "Marcenaro, L."
+  title: Smart cameras with onboard signcryption for securing IoT applications
+  venue: 2017 Global Internet of Things Summit (GIoTS)
+  location: "Geneva, Switzerland"
+  pages: 1–6
+  month: 6
+  year: 2017
+  doi: 10.1109/giots.2017.8016279
+- key: bastani2016online
+  type: article
+  authors:
+  - "Bastani, V."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Online Nonparametric Bayesian Activity Mining and Analysis From Surveillance Video
+  venue: IEEE Transactions on Image Processing
+  volume: '25'
+  number: '5'
+  pages: 2089–2102
+  month: 5
+  year: 2016
+  doi: 10.1109/tip.2016.2540813
+- key: betancourt2016gpu
+  type: inproceedings
+  authors:
+  - "Betancourt, A."
+  - "Marcenaro, L."
+  - "Barakova, E."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  title: GPU Accelerated Left/Right Hand-Segmentation in First Person Vision
+  venue: Lecture Notes in Computer Science
+  pages: 504–517
+  year: 2016
+  doi: 10.1007/978-3-319-46604-0_36
+- key: campo2016incremental
+  type: inproceedings
+  authors:
+  - "Campo, D."
+  - "Bastani, V."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Incremental learning of environment interactive structures from trajectories of individuals
+  venue: 19th Int. Conf. on Information Fusion (FUSION)
+  location: "Heidelberg, Germany"
+  pages: 589–596
+  month: 7
+  year: 2016
+- key: dabcevic2016cognitive
+  type: article
+  authors:
+  - "Dabcevic, K."
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Cognitive Radio as the Facilitator for Advanced Communications Electronic Warfare Solutions
+  venue: Journal of Signal Processing Systems
+  volume: '83'
+  number: '1'
+  pages: 29–44
+  month: 4
+  year: 2016
+  doi: 10.1007/s11265-015-1050-0
+- key: davis2016activity
+  type: inproceedings
+  authors:
+  - "Davis, K."
+  - "Owusu, E."
+  - "Bastani, V."
+  - "Marcenaro, L."
+  - "Hu, J."
+  - "Regazzoni, C. S."
+  - "Feijs, L."
+  title: Activity recognition based on inertial sensors for ambient assisted living
+  venue: 19th Int. Conf. on Information Fusion (FUSION)
+  location: "Heidelberg, Germany"
+  pages: 371–378
+  month: 7
+  year: 2016
+- key: davis2016improving
+  type: inproceedings
+  authors:
+  - "Davis, K."
+  - "Feijs, L."
+  - "Hu, J."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Improving Awareness and Social Connectedness through the Social Hue
+  venue: International Symposium on Interactive Technology and Ageing Populations
+  location: Kochi Japan
+  pages: 12–23
+  month: 10
+  year: 2016
+  doi: 10.1145/2996267.2996269
+- key: davis2016promoting
+  type: inproceedings
+  authors:
+  - "Davis, K."
+  - "Owusu, E."
+  - "Hu, J."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Feijs, L."
+  title: Promoting Social Connectedness through Human Activity-Based Ambient Displays
+  venue: International Symposium on Interactive Technology and Ageing Populations
+  location: Kochi Japan
+  pages: 64–76
+  month: 10
+  year: 2016
+  doi: 10.1145/2996267.2996274
+- key: irfan2016crowd
+  type: inproceedings
+  authors:
+  - "Irfan, M."
+  - "Marcenaro, L."
+  - "Tokarchuk, L."
+  title: "Crowd analysis using visual and non-visual sensors, a survey"
+  venue: 2016 IEEE Global Conference on Signal and Information Processing (GlobalSIP)
+  location: "Washington DC, DC, USA"
+  pages: 1249–1254
+  month: 12
+  year: 2016
+  doi: 10.1109/globalsip.2016.7906041
+- key: mazzu2016cognitive
+  type: article
+  authors:
+  - "Mazzu, A."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A Cognitive Control-Inspired Approach to Object Tracking
+  venue: IEEE Transactions on Image Processing
+  volume: '25'
+  number: '6'
+  pages: 2697–2711
+  month: 6
+  year: 2016
+  doi: 10.1109/tip.2016.2553781
+- key: urizar2016hierarchical
+  type: article
+  authors:
+  - "Urizar, O. J."
+  - "Baig, M. S."
+  - "Barakova, E. I."
+  - "Regazzoni, C. S."
+  - "Marcenaro, L."
+  - "Rauterberg, M."
+  title: A Hierarchical Bayesian Model for Crowd Emotions
+  venue: Frontiers in Computational Neuroscience
+  volume: '10'
+  month: 7
+  year: 2016
+  doi: 10.3389/fncom.2016.00063
+- key: bastani2015online
+  type: inproceedings
+  authors:
+  - "Bastani, V."
+  - "Campo, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Online pedestrian group walking event detection using spectral analysis of motion similarity graph
+  venue: 2015 12th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Karlsruhe, Germany"
+  pages: 1–5
+  month: 8
+  year: 2015
+  doi: 10.1109/avss.2015.7301744
+- key: chiappino2015bio
+  type: article
+  authors:
+  - "Chiappino, S."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Bio-inspired relevant interaction modelling in cognitive crowd management
+  venue: Journal of Ambient Intelligence and Humanized Computing
+  volume: '6'
+  number: '2'
+  pages: 171–192
+  month: 4
+  year: 2015
+  doi: 10.1007/s12652-014-0224-0
+- key: chiappino2015biob
+  type: inproceedings
+  authors:
+  - "Chiappino, S."
+  - "Mazzu, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A bio-inspired logical process for saliency detections in cognitive crowd monitoring
+  venue: "2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "South Brisbane, QLD, Australia"
+  pages: 2110–2114
+  month: 4
+  year: 2015
+  doi: 10.1109/icassp.2015.7178343
+- key: gogolev2015distributed
+  type: article
+  authors:
+  - "Gogolev, A."
+  - "Marchenko, N."
+  - "Marcenaro, L."
+  - "Bettstetter, C."
+  title: Distributed Binary Consensus in Networks with Disturbances
+  venue: ACM Transactions on Autonomous and Adaptive Systems
+  volume: '10'
+  number: '3'
+  pages: 1–17
+  month: 10
+  year: 2015
+  doi: 10.1145/2746347
+- key: lim2015e
+  type: inproceedings
+  authors:
+  - "Lim, V."
+  - "Funk, M."
+  - "Rauterberg, M."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: "E-COmate: What’s Your Non-consumption?"
+  venue: Lecture Notes in Computer Science
+  pages: 486–499
+  year: 2015
+  doi: 10.1007/978-3-319-19258-1_40
+- key: lopez2015advantages
+  type: inproceedings
+  authors:
+  - "Lopez, M. M."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Advantages of dynamic analysis in HOG-PCA feature space for video moving object classification
+  venue: "2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "South Brisbane, Queensland, Australia"
+  pages: 1285–1289
+  month: 4
+  year: 2015
+  doi: 10.1109/icassp.2015.7178177
+- key: morerio2015optimizing
+  type: article
+  authors:
+  - "Morerio, P."
+  - "Georgiu, G. C."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Optimizing Superpixel Clustering for Real-Time Egocentric-Vision Applications
+  venue: IEEE Signal Processing Letters
+  volume: '22'
+  number: '4'
+  pages: 469–473
+  month: 4
+  year: 2015
+  doi: 10.1109/lsp.2014.2362852
+- key: mughal2015compressed
+  type: inproceedings
+  authors:
+  - "Mughal, M. O."
+  - "Dabcevic, K."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Compressed sensing based jammer detection algorithm for wide-band cognitive radio networks
+  venue: "2015 3rd International Workshop on Compressed Sensing Theory and its Applications to Radar, Sonar and Remote Sensing (CoSeRa)"
+  location: Pisa
+  pages: 119–123
+  month: 6
+  year: 2015
+  doi: 10.1109/cosera.2015.7330276
+- key: mughal2015cyclostationary
+  type: inproceedings
+  authors:
+  - "Mughal, M. O."
+  - "Nawaz, T."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Cyclostationary-based jammer detection algorithm for wide-band radios using compressed sensing
+  venue: 2015 IEEE Global Conference on Signal and Information Processing (GlobalSIP)
+  location: "Orlando, FL, USA"
+  pages: 280–284
+  month: 12
+  year: 2015
+  doi: 10.1109/globalsip.2015.7418201
+- key: nawaz2015exploiting
+  type: inproceedings
+  authors:
+  - "Nawaz, T."
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Exploiting Cyclic Features for Jammer Detection in Wideband Cognitive Radios
+  venue: Wireless Innovation Forum European Conf. on Communications Technologies and Software Defined Radio (WInnComm-Europe)
+  location: "Erlangen, Germany"
+  month: 10
+  year: 2015
+- key: olier2015convolutional
+  type: inproceedings
+  authors:
+  - "Olier, J. S."
+  - "Regazzoni, C."
+  - "Marcenaro, L."
+  - "Rauterberg, M."
+  title: Convolutional Neural Networks for Detecting and Mapping Crowds in First Person Vision Applications
+  venue: Lecture Notes in Computer Science
+  pages: 475–485
+  year: 2015
+  doi: 10.1007/978-3-319-19258-1_39
+- key: alam2014impact
+  type: inproceedings
+  authors:
+  - "Alam, S. S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Impact of transform coding in compressive sensing based wideband cognitive radios
+  venue: "2014 4th International Conference on Wireless Communications, Vehicular Technology, Information Theory and Aerospace & Electronic Systems (VITAE)"
+  location: "Aalborg, Denmark"
+  pages: 1–5
+  month: 5
+  year: 2014
+  doi: 10.1109/vitae.2014.6934468
+- key: baig2014bio
+  type: inproceedings
+  authors:
+  - "Baig, M. W."
+  - "Barakova, E. I."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  - "Rauterberg, M."
+  title: Bio-inspired probabilistic model for crowd emotion detection
+  venue: 2014 International Joint Conference on Neural Networks (IJCNN)
+  location: "Beijing, China"
+  pages: 3966–3973
+  month: 7
+  year: 2014
+  doi: 10.1109/ijcnn.2014.6889964
+- key: baig2014crowd
+  type: inproceedings
+  authors:
+  - "Baig, M. W."
+  - "Barakova, E. I."
+  - "Marcenaro, L."
+  - "Rauterberg, M."
+  - "Regazzoni, C. S."
+  title: Crowd Emotion Detection Using Dynamic Probabilistic Models
+  venue: Lecture Notes in Computer Science
+  pages: 328–337
+  year: 2014
+  doi: 10.1007/978-3-319-08864-8_32
+- key: bastani2014unsupervised
+  type: inproceedings
+  authors:
+  - "Bastani, V."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Unsupervised trajectory pattern classification using hierarchical Dirichlet Process Mixture hidden Markov model
+  venue: 2014 IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
+  location: "Reims, France"
+  pages: 1–6
+  month: 9
+  year: 2014
+  doi: 10.1109/mlsp.2014.6958916
+- key: castaldo2014abnormal
+  type: inproceedings
+  authors:
+  - "Castaldo, F."
+  - "Bastani, V."
+  - "Marcenaro, L."
+  - "Palmieri, F. A. N."
+  - "Regazzoni, C."
+  title: Abnormal Vessel Behavior Detection in Port Areas Based on Dynamic Bayesian Networks
+  venue: 17th Int. Conf. on Information Fusion (FUSION)
+  location: "Salamanca, Spain"
+  month: 7
+  year: 2014
+- key: castaldo2014online
+  type: inproceedings
+  authors:
+  - "Castaldo, F."
+  - "Palmieri, F. A. N."
+  - "Bastani, V."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Online Bayesian learning and classification of ship-to-ship interactions for port safety
+  venue: 2014 11th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Seoul, South Korea"
+  pages: 319–324
+  month: 8
+  year: 2014
+  doi: 10.1109/avss.2014.6918688
+- key: chiappino2014information
+  type: inproceedings
+  authors:
+  - "Chiappino, S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Information Bottleneck-based relevant knowledge representation in large-scale video surveillance systems
+  venue: "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Florence, Italy"
+  pages: 4364–4368
+  month: 5
+  year: 2014
+  doi: 10.1109/icassp.2014.6854426
+- key: dabcevic2014fictitious
+  type: inproceedings
+  authors:
+  - "Dabcevic, K."
+  - "Betancourt, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A fictitious play-based game-theoretical approach to alleviating jamming attacks for cognitive radios
+  venue: "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Florence, Italy"
+  month: 5
+  year: 2014
+  doi: 10.1109/icassp.2014.6855191
+- key: dabcevic2014intelligent
+  type: article
+  authors:
+  - "Dabcevic, K."
+  - "Betancourt, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Intelligent cognitive radio jamming - a game-theoretical approach
+  venue: EURASIP Journal on Advances in Signal Processing
+  volume: '2014'
+  number: '1'
+  article_no: '171'
+  month: 12
+  year: 2014
+  doi: 10.1186/1687-6180-2014-171
+- key: dabcevic2014spd
+  type: inproceedings
+  authors:
+  - "Dabcevic, K."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: SPD-driven Smart Transmission Layer Based on a Software Defined Radio Test Bed Architecture
+  venue: Int. Conf. on Pervasive and Embedded Computing and Communication Systems (PECCS 2014)
+  location: "Lisbon, Portugal"
+  month: 1
+  year: 2014
+- key: dabcevic2014spectrum
+  type: inproceedings
+  authors:
+  - "Dabcevic, K."
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Spectrum Intelligence for Interference Mitigation for Cognitive Radio Terminals
+  venue: Wireless Innovation Forum European Conf. on Communications Technologies and Software Defined Radio (WInnComm-Europe)
+  location: "Rome, Italy"
+  month: 11
+  year: 2014
+- key: gogolev2014density
+  type: inproceedings
+  authors:
+  - "Gogolev, A."
+  - "Marcenaro, L."
+  title: Density Classification in Asynchronous Random Networks with Faulty Nodes
+  venue: "2014 22nd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing"
+  location: "Torino, Italy"
+  pages: 256–261
+  month: 2
+  year: 2014
+  doi: 10.1109/pdp.2014.62
+- key: gogolev2014efficient
+  type: inproceedings
+  authors:
+  - "Gogolev, A."
+  - "Marcenaro, L."
+  title: Efficient binary consensus in randomized and noisy networks
+  venue: "9th IEEE Int. Conf. on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)"
+  year: 2014
+- key: gogolev2014randomized
+  type: article
+  authors:
+  - "Gogolev, A."
+  - "Marcenaro, L."
+  title: Randomized Binary Consensus with Faulty Agents
+  venue: Entropy
+  volume: '16'
+  number: '5'
+  pages: 2820–2838
+  month: 5
+  year: 2014
+  doi: 10.3390/e16052820
+- key: mazzu2014switching
+  type: inproceedings
+  authors:
+  - "Mazzú, A."
+  - "Chiappino, S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A switching fusion filter for dim point target tracking in infra-red video sequences
+  venue: 17th Int. Conf. on Information Fusion (FUSION)
+  location: "Salamanca, Spain"
+  month: 7
+  year: 2014
+- key: mazzu2014track
+  type: inproceedings
+  authors:
+  - "Mazzu, A."
+  - "Chiappino, S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A track-before-detect algorithm using joint probabilistic data association filter and interacting multiple models
+  venue: 2014 IEEE International Conference on Image Processing (ICIP)
+  location: "Paris, France"
+  pages: 4947–4951
+  month: 10
+  year: 2014
+  doi: 10.1109/icip.2014.7026002
+- key: morerio2014exploiting
+  type: inproceedings
+  authors:
+  - "Morerio, P."
+  - "Pompei, M."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Exploiting an event based state estimator in presence of sparse measurements in video analytics
+  venue: "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  location: "Florence, Italy"
+  pages: 1871–1875
+  month: 5
+  year: 2014
+  doi: 10.1109/icassp.2014.6853923
+- key: morerio2014generative
+  type: inproceedings
+  authors:
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A Generative Superpixel Method
+  venue: 17th Int. Conf. on Information Fusion (FUSION)
+  location: "Salamanca, Spain"
+  month: 7
+  year: 2014
+- key: mughal2014energy
+  type: article
+  authors:
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: "Energy Detection in Multihop Cooperative Diversity Networks: An Analytical Study"
+  venue: International Journal of Distributed Sensor Networks
+  volume: '10'
+  number: '1'
+  article_no: '453248'
+  month: 1
+  year: 2014
+  doi: 10.1155/2014/453248
+- key: mughal2014experimental
+  type: inproceedings
+  authors:
+  - "Mughal, M. O."
+  - "Dabcevic, K."
+  - "Dura, G."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Experimental Study of Spectrum Estimation and Reconstruction based on Compressive Sampling for Cognitive Radios
+  venue: Wireless Innovation Forum European Conf. on Communications Technologies and Software Defined Radio (WInnComm-Europe)
+  location: "Rome, Italy"
+  month: 11
+  year: 2014
+- key: alam2013computationally
+  type: inproceedings
+  authors:
+  - "Alam, S. S."
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Computationally Efficient Compressive Sensing in Wideband Cognitive Radios
+  venue: "2013 Seventh International Conference on Next Generation Mobile Apps, Services and Technologies"
+  location: "Prague, Czech Republic"
+  pages: 226–231
+  month: 9
+  year: 2013
+  doi: 10.1109/ngmast.2013.48
+- key: alam2013improved
+  type: inproceedings
+  authors:
+  - "Alam, S. S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Improved Throughput Performance in Wideband Cognitive Radios via Compressive Sensing
+  venue: 2013 8th EUROSIM Congress on Modelling and Simulation
+  location: "Cardiff, United Kingdom"
+  pages: 585–590
+  month: 9
+  year: 2013
+  doi: 10.1109/eurosim.2013.102
+- key: alam2013opportunistic
+  type: incollection
+  authors:
+  - "Alam, S. S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Opportunistic Spectrum Sensing and Transmissions
+  venue: "Cognitive Radio and Interference Management: Technology and Strategy"
+  editors:
+  - "Ku, M.-L."
+  - "Lin, J.-C."
+  publisher: IGI Global
+  location: "Hershey, PA, USA"
+  pages: 1–28
+  year: 2013
+  doi: 10.4018/978-1-4666-2005-6.ch001
+- key: chiappino2013bio
+  type: inproceedings
+  authors:
+  - "Chiappino, S."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A bio-inspired knowledge representation method for anomaly detection in cognitive video surveillance systems
+  venue: 16th Int. Conf. on Information Fusion (FUSION)
+  location: "Istanbul, Turkey"
+  month: 7
+  year: 2013
+- key: chiappino2013event
+  type: inproceedings
+  authors:
+  - "Chiappino, S."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Event definition for stability preservation in bio-inspired cognitive crowd monitoring
+  venue: 2013 18th International Conference on Digital Signal Processing (DSP)
+  location: "Fira, Santorini, Greece"
+  pages: 1–6
+  month: 7
+  year: 2013
+  doi: 10.1109/icdsp.2013.6622802
+- key: chiappino2013run
+  type: inproceedings
+  authors:
+  - "Chiappino, S."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Run Length Encoded Dynamic Bayesian Networks for Probabilistic Interaction Modeling
+  venue: 21st European Signal Processing Conference (EUSIPCO)
+  location: "Marrakech, Morocco"
+  month: 9
+  year: 2013
+- key: chiappino2013selective
+  type: inproceedings
+  authors:
+  - "Chiappino, S."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: Selective attention automatic focus for cognitive crowd monitoring
+  venue: 2013 10th IEEE International Conference on Advanced Video and Signal Based Surveillance
+  location: "Krakow, Poland"
+  pages: 13–18
+  month: 8
+  year: 2013
+  doi: 10.1109/avss.2013.6636609
+- key: dabcevic2013security
+  type: incollection
+  authors:
+  - "Dabcevic, K."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Security in Cognitive Radio Networks
+  venue: Advances in Wireless Technologies and Telecommunication
+  publisher: IGI Global
+  pages: 301–335
+  year: 2013
+  doi: 10.4018/978-1-4666-4189-1.ch013
+- key: marcenaro2013dynamic
+  type: incollection
+  authors:
+  - "Marcenaro, L."
+  - "Soto, M."
+  - "Regazzoni, C. S."
+  title: Dynamic Bayesian multi-target tracking for behavior and interaction detection
+  venue: "Effective Surveillance for Homeland Security: Balancing Technology and Social Issues"
+  editors:
+  - "Flammini, F."
+  - "Setola, R."
+  - "Franceschetti, G."
+  publisher: CRC Press
+  location: "Boca Raton, FL, USA"
+  year: 2013
+  doi: 10.1201/b14839
+- key: morerio2013hand
+  type: inproceedings
+  authors:
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Hand Detection in First Person Vision
+  venue: 16th Int. Conf. on Information Fusion (FUSION)
+  location: "Istanbul, Turkey"
+  month: 7
+  year: 2013
+- key: mughal2013analysis
+  type: inproceedings
+  authors:
+  - "Mughal, M. O."
+  - "Razi, A."
+  - "Alam, S. S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Analysis of Energy Detector in Cooperative Relay Networks for Cognitive Radios
+  venue: "2013 Seventh International Conference on Next Generation Mobile Apps, Services and Technologies"
+  location: "Prague, Czech Republic"
+  pages: 220–225
+  month: 9
+  year: 2013
+  doi: 10.1109/ngmast.2013.47
+- key: sharifulalam2013enhanced
+  type: inproceedings
+  authors:
+  - "Shariful Alam, S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Enhanced performance in wideband cognitive radios via compressive sensing
+  venue: 2013 IEEE Global Conference on Signal and Information Processing
+  location: "Austin, TX, USA"
+  pages: 1290–1293
+  month: 12
+  year: 2013
+  doi: 10.1109/globalsip.2013.6737145
+- key: chiappino2012event
+  type: incollection
+  authors:
+  - "Chiappino, S."
+  - "Marcenaro, L."
+  - "Morerio, P."
+  - "Regazzoni, C."
+  title: Event Based Switched Dynamic Bayesian Networks for Autonomous Cognitive Crowd Monitoring
+  venue: Augmented Vision and Reality
+  publisher: Springer Berlin Heidelberg
+  pages: 93–122
+  month: 9
+  year: 2012
+  doi: 10.1007/8612_2012_8
+- key: chiappino2012multi
+  type: inproceedings
+  authors:
+  - "Chiappino, S."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Fuiano, E."
+  - "Repetto, G."
+  - "Regazzoni, C. S."
+  title: A multi-sensor cognitive approach for active security monitoring of abnormal overcrowding situations in critical infrastructure
+  venue: 15th Int. Conf. on Information Fusion (FUSION)
+  location: Singapore
+  month: 7
+  year: 2012
+- key: marcenaro2012performance
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Morerio, P."
+  - "Regazzoni, C. S."
+  title: Performance Evaluation of Multi-camera Visual Tracking
+  venue: 2012 IEEE Ninth International Conference on Advanced Video and Signal-Based Surveillance
+  location: "Beijing, China"
+  pages: 464–469
+  month: 9
+  year: 2012
+  doi: 10.1109/avss.2012.86
+- key: morerio2012distributed
+  type: inproceedings
+  authors:
+  - "Morerio, P."
+  - "Dabcevic, K."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Distributed cognitive radio architecture with automatic frequency switching
+  venue: 2012 Complexity in Engineering (COMPENG)
+  location: "Aachen, Germany"
+  pages: 1–4
+  month: 6
+  year: 2012
+  doi: 10.1109/compeng.2012.6242968
+- key: morerio2012early
+  type: inproceedings
+  authors:
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  - "Gera, G."
+  title: Early fire and smoke detection based on colour features and motion analysis
+  venue: 2012 19th IEEE International Conference on Image Processing
+  location: "Orlando, FL, USA"
+  pages: 1041–1044
+  month: 9
+  year: 2012
+  doi: 10.1109/icip.2012.6467041
+- key: morerio2012people
+  type: inproceedings
+  authors:
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: People Count Estimation In Small Crowds
+  venue: 2012 IEEE Ninth International Conference on Advanced Video and Signal-Based Surveillance
+  location: "Beijing, China"
+  pages: 476–480
+  month: 9
+  year: 2012
+  doi: 10.1109/avss.2012.88
+- key: pozzo2012location
+  type: inproceedings
+  authors:
+  - "Pozzo, F."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  - "Gesmundo, V."
+  title: Location Aware Optimized Link State Routing protocol
+  venue: 2012 IEEE Military Communications Conference
+  location: "Orlando, FL, USA"
+  pages: 1–6
+  month: 10
+  year: 2012
+  doi: 10.1109/milcom.2012.6415639
+- key: alvarez2011efficient
+  type: inproceedings
+  authors:
+  - "Alvarez, M. S."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Efficient framework for extended visual object tracking
+  venue: 2011 IEEE International Conference on Computer Vision Workshops (ICCV Workshops)
+  location: "Barcelona, Spain"
+  pages: 1831–1838
+  month: 11
+  year: 2011
+  doi: 10.1109/iccvw.2011.6130471
+- key: ciardelli2011joint
+  type: inproceedings
+  authors:
+  - "Ciardelli, L."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Joint Video-CANbus Sensing Framework for Enhanced Automotive Safety
+  venue: 53rd Int. Symposium ELMAR-2011
+  location: "Zadar, Croatia"
+  month: 9
+  year: 2011
+- key: ciardelli2011jointb
+  type: inproceedings
+  authors:
+  - "Ciardelli, L."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Joint Video-CANbus Sensing Framework for Smart Automotive Safety
+  venue: Riunione Annuale GTTI 2011
+  location: "Messina, Italy"
+  month: 6
+  year: 2011
+- key: detitta2011vtrack
+  type: inproceedings
+  authors:
+  - "de Titta, S."
+  - "Gera, G."
+  - "Marcenaro, L."
+  title: "VTrack: Video analytics for automatic video-surveillance"
+  venue: 2011 8th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)
+  location: "Klagenfurt, Austria"
+  pages: 536–538
+  month: 8
+  year: 2011
+  doi: 10.1109/avss.2011.6027405
+- key: calbi2007multimodal
+  type: inproceedings
+  authors:
+  - "Calbi, A."
+  - "Dore, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Multimodal Cognitive System For Immersive User Interaction
+  venue: ImmersCom
+  location: "Bussolengo (Verona), Italy"
+  year: 2007
+  doi: 10.4108/icst.immerscom2007.2259
+- key: cattoni2007indoor
+  type: inproceedings
+  authors:
+  - "Cattoni, A. F."
+  - "Calbi, A."
+  - "Bonamico, C."
+  - "Marcenaro, L."
+  - "Lavagetto, F."
+  - "Regazzoni, C. S."
+  title: Indoor/outdoor navigation services provision through a mixed video/radio localization system
+  venue: European Navigation Conference – Global Navigation Satellite Systems (ENC-GNSS)
+  location: "Geneva, Switzerland"
+  month: 5
+  year: 2007
+- key: marcenaro2007multi
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Magliano, I."
+  - "Beoldo, A."
+  - "Valla, M."
+  - "Regazzoni, C. S."
+  title: Multi-camera indoor video processing for context awareness
+  venue: 3rd International ICST Conference on Mobile Multimedia Communications
+  location: "Nafpaktos, Greece"
+  year: 2007
+  doi: 10.4108/icst.mobimedia2007.1743
+- key: calbi2006dynamic
+  type: incollection
+  authors:
+  - "Calbi, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Dynamic Scene Reconstruction for 3D Virtual Guidance
+  venue: Lecture Notes in Computer Science
+  publisher: Springer Berlin Heidelberg
+  pages: 179–186
+  year: 2006
+  doi: 10.1007/11893004_23
+- key: calbi2006dynamicb
+  type: inproceedings
+  authors:
+  - "Calbi, A."
+  - "Regazzoni, C."
+  - "Marcenaro, L."
+  title: Dynamic Scene Reconstruction for Efficient Remote Surveillance
+  venue: 2006 IEEE International Conference on Video and Signal Based Surveillance
+  location: "Sydney, Australia"
+  pages: 99–99
+  month: 11
+  year: 2006
+  doi: 10.1109/avss.2006.45
+- key: marcenaro2006self
+  type: article
+  authors:
+  - "Marcenaro, L."
+  - "Marchesotti, L."
+  - "Regazzoni, C. S."
+  title: Self-organizing shape description for tracking and classifying multiple interacting objects
+  venue: Image and Vision Computing
+  volume: '24'
+  number: '11'
+  pages: 1179–1191
+  month: 11
+  year: 2006
+  doi: 10.1016/j.imavis.2005.06.012
+- key: scotti2005dual
+  type: article
+  authors:
+  - "Scotti, G."
+  - "Marcenaro, L."
+  - "Coelho, C."
+  - "Selvaggi, F."
+  - "Regazzoni, C. S."
+  title: Dual camera intelligent sensor for high definition 360 degrees surveillance
+  venue: "IEE Proceedings - Vision, Image, and Signal Processing"
+  volume: '152'
+  number: '2'
+  article_no: '250'
+  year: 2005
+  doi: "10.1049/ip-vis:20041302"
+- key: spirito2005automatic
+  type: inproceedings
+  authors:
+  - "Spirito, M."
+  - "Regazzoni, C. S."
+  - "Marcenaro, L."
+  title: Automatic detection of dangerous events for underground surveillance
+  venue: "IEEE Conference on Advanced Video and Signal Based Surveillance, 2005"
+  location: "Como, Italy"
+  pages: 195–200
+  year: 2005
+  doi: 10.1109/avss.2005.1577266
+- key: ziliani2005performance
+  type: inproceedings
+  authors:
+  - "Ziliani, F."
+  - "Velastin, S."
+  - "Porikli, F."
+  - "Marcenaro, L."
+  - "Kelliher, T."
+  - "Cavallaro, A."
+  - "Bruneaut, P."
+  title: "Performance evaluation of event detection solutions: the creds experience"
+  venue: "IEEE Conference on Advanced Video and Signal Based Surveillance, 2005"
+  location: "Como, Italy"
+  pages: 201–206
+  year: 2005
+  doi: 10.1109/avss.2005.1577267
+- key: scotti2004novel
+  type: inproceedings
+  authors:
+  - "Scotti, G."
+  - "Marcenaro, L."
+  - "Coelho, C."
+  - "Selvaggi, F."
+  - "Regazzoni, C. S."
+  title: A novel dual camera intelligent sensor for high definition 360 degrees surveillance
+  venue: IEE Intelligent Distributed Surveillance Systems
+  location: "London, UK"
+  pages: 26–30
+  month: 2
+  year: 2004
+- key: marcenaro2003distributed
+  type: incollection
+  authors:
+  - "Marcenaro, L."
+  - "Marchesotti, L."
+  - "Regazzoni, C. S."
+  title: Distributed Metadata Extraction Strategies in a Multi-Resolution Dual Camera System
+  venue: Multisensor Surveillance Systems
+  publisher: Springer US
+  pages: 29–41
+  year: 2003
+  doi: 10.1007/978-1-4615-0371-2_2
+- key: marcenaro2003distributedb
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  title: A distributed dynamic reconfigurable system for ambient intelligence
+  venue: IEE Symposium Intelligent Distributed Surveillance Systems
+  location: "London, UK"
+  volume: '2003'
+  pages: 21–21
+  year: 2003
+  doi: "10.1049/ic:20030047"
+- key: marcenaro2003localization
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Gandetto, M."
+  - "Regazzoni, C. S."
+  title: Localization and classification of partially overlapped objects using self-organizing trees
+  venue: 2003 International Conference on Image Processing
+  location: "Barcelona, Spain"
+  volume: '2'
+  pages: III-137-40
+  year: 2003
+  doi: 10.1109/icip.2003.1247200
+- key: marcenaro2003moving
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Marchesotti, L."
+  - "Regazzoni, C. S."
+  title: Moving objects self-generated illumination variations removal for automatic video-surveillance systems
+  venue: SPIE Visual Communications and Image Processing (VCIP)
+  editors:
+  - "Ebrahimi, T."
+  - "Sikora, T."
+  location: "Lugano, Switzerland"
+  volume: '5150'
+  pages: 414–421
+  month: 7
+  year: 2003
+- key: marchesotti2003cooperative
+  type: article
+  authors:
+  - "Marchesotti, L."
+  - "Messina, A."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A cooperative multisensor system for face detection in video surveillance applications
+  venue: Acta Automatica Sinica
+  volume: '29'
+  number: '3'
+  pages: 423–433
+  year: 2003
+- key: marchesotti2003dual
+  type: inproceedings
+  authors:
+  - "Marchesotti, L."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Dual camera system for face detection in unconstrained environments
+  venue: IEEE Int. Conf. on Image Processing (ICIP)
+  location: "Barcelona, Spain"
+  pages: I-681–I-684
+  month: 9
+  year: 2003
+- key: scotti2003s
+  type: inproceedings
+  authors:
+  - "Scotti, G."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A S.O.M. based algorithm for video surveillance system parameter optimal selection
+  venue: IEEE Conf. on Advanced Video and Signal Based Surveillance (AVSS 2003)
+  location: "Miami, FL, USA"
+  pages: '370'
+  month: 7
+  year: 2003
+- key: foresti2002automatic
+  type: article
+  authors:
+  - "Foresti, G. L."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Automatic detection and indexing of video-event shots for surveillance applications
+  venue: IEEE Transactions on Multimedia
+  volume: '4'
+  number: '4'
+  pages: 459–471
+  month: 12
+  year: 2002
+  doi: 10.1109/tmm.2002.802024
+- key: marcenaro2002extending
+  type: article
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Regazzoni, C. S."
+  title: Extending Real Time Change-Detection Techniques to Mosaic Backgrounds and Mobile Camera Sequences in Surveillance Systems
+  venue: IETE Journal of Research
+  volume: '48'
+  number: 3-4
+  pages: 151–161
+  month: 5
+  year: 2002
+  doi: 10.1080/03772063.2002.11416271
+- key: marcenaro2002heterogeneous
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Marchesotti, L."
+  - "Regazzoni, C. S."
+  title: Heterogeneous data collection and representation within a distributed smart space architecture
+  venue: Advanced Concepts for Intelligent Vision Systems (ACIVS 2002)
+  location: "Ghent, Belgium"
+  pages: 229–233
+  month: 9
+  year: 2002
+- key: marcenaro2002multi
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Marchesotti, L."
+  - "Regazzoni, C. S."
+  title: A multi-resolution outdoor dual camera system for robust video-event metadata extraction
+  venue: Fifth International Conference on Information Fusion. FUSION 2002
+  location: "Annapolis, MD, USA"
+  volume: '2'
+  pages: 1184–1189
+  year: 2002
+  doi: 10.1109/icif.2002.1020947
+- key: marcenaro2002multiple
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Ferrari, M."
+  - "Marchesotti, L."
+  - "Regazzoni, C. S."
+  title: Multiple object tracking under heavy occlusions by using Kalman filters based on shape matching
+  venue: International Conference on Image Processing
+  location: "Toronto, Ont., Canada"
+  volume: '1'
+  pages: III-341-III-344
+  year: 2002
+  doi: 10.1109/icip.2002.1038975
+- key: marcenaro2002object
+  type: incollection
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Regazzoni, C. S."
+  title: Object Tracking and Shoslif Tree Based Classification Using Shape and Color Features
+  venue: Video-Based Surveillance Systems
+  publisher: Springer US
+  pages: 123–134
+  year: 2002
+  doi: 10.1007/978-1-4615-0913-4_10
+- key: marcenaro2002system
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Marchesotti, L."
+  - "Regazzoni, C. S."
+  title: A system for heterogeneous data collection for ambient intelligence
+  venue: Tyrrhenian Int. Workshop on Digital Communications (IWDC 2002)
+  location: "Capri, Italy"
+  month: 9
+  year: 2002
+- key: marchesotti2002tracking
+  type: inproceedings
+  authors:
+  - "Marchesotti, L."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Tracking and counting multiple interacting pedestrians in indoor scenes
+  venue: 3rd IEEE Int. Workshop on Performance Evaluation of Tracking and Surveillance (PETS 2002)
+  location: "Copenhagen, Denmark"
+  month: 6
+  year: 2002
+- key: marchesotti2002video
+  type: inproceedings
+  authors:
+  - "Marchesotti, L."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: A video surveillance architecture for alarm generation and video sequences retrieval
+  venue: IEEE Int. Conf. on Image Processing (ICIP)
+  location: "Rochester, NY, USA"
+  pages: I-892–I-895
+  month: 9
+  year: 2002
+- key: oberti2002real
+  type: inproceedings
+  authors:
+  - "Oberti, F."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Real-time change detection methods for video-surveillance systems with mobile camera
+  venue: 11th European Signal Processing Conference (EUSIPCO)
+  location: "Toulouse, France"
+  pages: 37–40
+  month: 9
+  year: 2002
+- key: regazzoni2002object
+  type: incollection
+  authors:
+  - "Regazzoni, C. S."
+  - "Marcenaro, L."
+  title: Object Detection and Tracking in Distributed Surveillance Systems Using Multiple Cameras
+  venue: Multisensor Fusion
+  publisher: Springer Netherlands
+  pages: 541–572
+  year: 2002
+  doi: 10.1007/978-94-010-0556-2_25
+- key: marcenaro2001distributed
+  type: article
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Foresti, G. L."
+  - "Regazzoni, C. S."
+  title: Distributed architectures and logical-task decomposition in multimedia surveillance systems
+  venue: Proceedings of the IEEE
+  volume: '89'
+  number: '10'
+  pages: 1419–1440
+  year: 2001
+  doi: 10.1109/5.959339
+- key: marcenaro2001image
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Vernazza, G."
+  - "Regazzoni, C. S."
+  title: Image stabilization algorithms for video-surveillance applications
+  venue: 2001 International Conference on Image Processing
+  location: "Thessaloniki, Greece"
+  volume: '1'
+  pages: 349–352
+  year: 2001
+  doi: 10.1109/icip.2001.959025
+- key: marcenaro2001multiple
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Regazzoni, C. S."
+  title: Multiple objects colour-based tracking using multiple cameras in complex time-varying outdoor scenes
+  venue: 2nd IEEE Int. Workshop on Performance Evaluation of Tracking and Surveillance (PETS 2001)
+  location: "Kauai, HI, USA"
+  month: 12
+  year: 2001
+- key: marcenaro2001object
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Regazzoni, C. S."
+  title: Object tracking and shoslif tree based classification using shape and colour features
+  venue: Workshop on Advanced Video-based Surveillance Systems (AVBS 2001)
+  location: "Kingston, UK"
+  month: 9
+  year: 2001
+- key: sacchi2001advanced
+  type: article
+  authors:
+  - "Sacchi, C."
+  - "Gera, G."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Advanced image-processing tools for counting people in tourist site-monitoring applications
+  venue: Signal Processing
+  volume: '81'
+  number: '5'
+  pages: 1017–1040
+  month: 5
+  year: 2001
+  doi: 10.1016/s0165-1684(00)00280-2
+- key: marcenaro2000adaptive
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Gera, G."
+  - "Regazzoni, C. S."
+  title: Adaptive change detection approach for object detection in outdoor scenes under variable speed illumination changes
+  venue: 10th European Signal Processing Conference (EUSIPCO)
+  location: "Tampere, Finland"
+  pages: 1025–1028
+  month: 9
+  year: 2000
+- key: marcenaro2000automatic
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  - "Vernazza, G."
+  title: Automatic generation of the statistical model of a non-rigid object in a multiple-camera environment
+  venue: 15th International Conference on Pattern Recognition. ICPR-2000
+  location: "Barcelona, Spain"
+  volume: '1'
+  pages: 530–533
+  year: 2000
+  doi: 10.1109/icpr.2000.905392
+- key: marcenaro2000change
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Regazzoni, C. S."
+  title: Change detection methods for automatic scene analysis by using mobile surveillance cameras
+  venue: 2000 International Conference on Image Processing
+  location: "Vancouver, BC, Canada"
+  volume: '1'
+  pages: 244–247
+  year: 2000
+  doi: 10.1109/icip.2000.900940
+- key: marcenaro2000dynamic
+  type: incollection
+  authors:
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Dynamic Shape Detection for Multiple Camera Systems
+  venue: Multimedia Video-Based Surveillance Systems
+  publisher: Springer US
+  pages: 71–83
+  year: 2000
+  doi: 10.1007/978-1-4615-4327-5_7
+- key: marcenaro2000line
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Regazzoni, C. S."
+  title: On line self-organizing non-rigid shape description in multiple objects scenes
+  venue: Workshop on Real-Time Image Sequence Analysis (RISA 2000)
+  location: "Oulu, Finland"
+  pages: 63–78
+  month: 9
+  year: 2000
+- key: marcenaro2000short
+  type: inproceedings
+  authors:
+  - "Marcenaro, L."
+  - "Oberti, F."
+  - "Regazzoni, C. S."
+  title: Short-memory shape models for ground-plane predictive object tracking
+  venue: IEEE Int. Workshop on Performance Evaluation of Tracking and Surveillance (PETS 2000)
+  location: "Grenoble, France"
+  pages: 50–56
+  month: 3
+  year: 2000

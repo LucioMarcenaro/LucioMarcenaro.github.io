@@ -1,0 +1,39 @@
+{%- assign p = include.pub -%}
+{%- assign mnames = "jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec" | split: "," -%}
+@{{ p.type }}{ {{- p.key }},
+  author    = { {{- p.authors | join: " and " }}},
+  title     = { {{- p.title }}},
+{%- if p.type == "article" %}
+  journal   = { {{- p.venue }}},
+{%- else %}
+  booktitle = { {{- p.venue }}},
+{%- endif %}
+{%- if p.editors %}
+  editor    = { {{- p.editors | join: " and " }}},
+{%- endif %}
+{%- if p.publisher %}
+  publisher = { {{- p.publisher }}},
+{%- endif %}
+{%- if p.location %}
+  address   = { {{- p.location }}},
+{%- endif %}
+{%- if p.volume %}
+  volume    = { {{- p.volume }}},
+{%- endif %}
+{%- if p.number %}
+  number    = { {{- p.number }}},
+{%- endif %}
+{%- if p.pages %}
+  pages     = { {{- p.pages | replace: "–", "--" }}},
+{%- endif %}
+{%- if p.article_no %}
+  eid       = { {{- p.article_no }}},
+{%- endif %}
+{%- if p.month %}{% assign mi = p.month | minus: 1 %}
+  month     = {{ mnames[mi] }},
+{%- endif %}
+  year      = { {{- p.year }}}
+{%- if p.doi %},
+  doi       = { {{- p.doi }}}
+{%- endif %}
+}

@@ -1,0 +1,26 @@
+{%- comment -%}One reference in IEEE style. Usage: {% include pub-ieee.html pub=pub %}{%- endcomment -%}
+{%- assign p = include.pub -%}
+{%- assign months = "Jan.,Feb.,Mar.,Apr.,May,Jun.,Jul.,Aug.,Sep.,Oct.,Nov.,Dec." | split: "," -%}
+{%- if p.month -%}{%- assign mi = p.month | minus: 1 -%}{%- assign mon = months[mi] | append: " " -%}{%- else -%}{%- assign mon = "" -%}{%- endif -%}
+{%- assign series = false -%}
+{%- if p.venue contains "Lecture Notes" or p.venue contains "Advances in Intelligent Systems" -%}{%- assign series = true -%}{%- endif -%}
+{% include pub-authors.html authors=p.authors %}, &ldquo;{{ p.title | escape }},&rdquo;
+{%- if p.type == "article" %} <em>{{ p.venue | escape }}</em>
+  {%- if p.volume %}, vol. {{ p.volume }}{% endif -%}
+  {%- if p.number %}, no. {{ p.number }}{% endif -%}
+  {%- if p.pages %}, pp. {{ p.pages }}{% endif -%}
+  {%- if p.article_no %}, Art. no. {{ p.article_no }}{% endif -%}
+  , {{ mon }}{{ p.year }}
+{%- elsif p.type == "incollection" %} in <em>{{ p.venue | escape }}</em>
+  {%- if p.editors -%}, {% include pub-authors.html authors=p.editors %}, {% if p.editors.size > 1 %}Eds.{% else %}Ed.{% endif %}{%- endif -%}
+  {%- if p.publisher %} {% if p.location %}{{ p.location }}: {% endif %}{{ p.publisher | escape }}{% endif -%}
+  , {{ p.year }}
+  {%- if p.pages %}, pp. {{ p.pages }}{% endif -%}
+{%- else %} in <em>{% if series %}{{ p.venue | escape }}{% else %}Proc. {{ p.venue | escape }}{% endif %}</em>
+  {%- if series and p.volume %}, vol. {{ p.volume }}{% endif -%}
+  {%- if p.location %}, {{ p.location }}{% endif -%}
+  , {{ mon }}{{ p.year }}
+  {%- if p.pages %}, pp. {{ p.pages }}{% endif -%}
+  {%- if p.article_no %}, Art. no. {{ p.article_no }}{% endif -%}
+{%- endif -%}
+{%- if p.doi %}, doi: <a href="https://doi.org/{{ p.doi }}">{{ p.doi }}</a>{% endif %}.

@@ -1,0 +1,25 @@
+# Temporary: build-only check for the publications branch. Remove before merging.
+name: Build check
+on:
+  push:
+    branches: ["publications"]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: ruby/setup-ruby@v1.328.0
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - run: bundle exec jekyll build 2>&1 | grep -v DEPRECATION
+        env:
+          JEKYLL_ENV: production
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: |
+            _site/publications/index.html
+            _site/publications.bib
