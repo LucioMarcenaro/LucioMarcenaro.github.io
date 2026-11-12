@@ -1,0 +1,25 @@
+# Temporary: build-only check for the update-academicpages branch. Remove before merging.
+name: Build check
+on:
+  push:
+    branches: ["update-academicpages"]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - uses: ruby/setup-ruby@v1.328.0
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - run: npm install -g uglify-js
+      - run: uglifyjs assets/js/plugins/jquery.greedy-navigation.js assets/js/_main.js assets/js/theme.js -c -m -o assets/js/main.min.js
+      - run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - run: ls _site && grep -o '<title>[^<]*' _site/index.html
