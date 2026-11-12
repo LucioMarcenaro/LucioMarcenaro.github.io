@@ -1,6 +1,52 @@
 # Publications shown on /publications/ (IEEE style) with per-entry BibTeX.
 # type: article | inproceedings | incollection. Authors as "Family, I.".
 # Add new entries anywhere; the page sorts them by year.
+- key: krayani2026semantic
+  type: article
+  authors:
+  - "Krayani, A."
+  - "Obite, F."
+  - "Alam, A. S."
+  - "Marcenaro, L."
+  - "Nallanathan, A."
+  - "Regazzoni, C."
+  title: A Semantic-Aware Resource Allocation for Emerging AAV-NOMA Networks Empowered by Bayesian Active Inference
+  venue: IEEE Transactions on Cognitive Communications and Networking
+  volume: '12'
+  pages: 5014–5031
+  year: 2026
+  doi: 10.1109/tccn.2025.3637049
+- key: memon2026integrated
+  type: article
+  authors:
+  - "Memon, S."
+  - "Krayani, A."
+  - "Zontone, P."
+  - "Marcenaro, L."
+  - "Martín Gómez, D."
+  - "Regazzoni, C."
+  title: Integrated Sensing and Communication for Blockage Detection in V2X Networks
+  venue: IEEE Open Journal of the Communications Society
+  volume: '7'
+  pages: 559–582
+  year: 2026
+  doi: 10.1109/ojcoms.2026.3652319
+- key: adnan2025generative
+  type: article
+  authors:
+  - "Adnan, M."
+  - "Zontone, P."
+  - "Martín Gómez, D."
+  - "Marcenaro, L."
+  - "Regazzoni, C."
+  title: A Generative Model Approach for LiDAR-Based Classification and Ego Vehicle Localization Using Dynamic Bayesian Networks
+  venue: Applied Sciences
+  volume: '15'
+  number: '9'
+  article_no: '5181'
+  month: 5
+  year: 2025
+  doi: 10.3390/app15095181
 - key: alemaw2025modeling
   type: article
   authors:
@@ -16,6 +62,36 @@
   pages: 5035–5049
   year: 2025
   doi: 10.1109/tmm.2025.3543110
+- key: arshid2025autonomous
+  type: article
+  authors:
+  - "Arshid, K."
+  - "Krayani, A."
+  - "Marcenaro, L."
+  - "Gomez, D. M."
+  - "Regazzoni, C."
+  title: "Toward Autonomous UAV Swarm Navigation: A Review of Trajectory Design Paradigms"
+  venue: Sensors
+  volume: '25'
+  number: '18'
+  article_no: '5877'
+  month: 9
+  year: 2025
+  doi: 10.3390/s25185877
+- key: arshid2025uav
+  type: article
+  authors:
+  - "Arshid, K."
+  - "Krayani, A."
+  - "Marcenaro, L."
+  - "Gómez, D. M."
+  - "Regazzoni, C."
+  title: UAV Swarm Trajectory Design for Wireless Networks Using Genetic Algorithm-Driven Repulsion Forces
+  venue: IEEE Access
+  volume: '13'
+  pages: 155657–155674
+  year: 2025
+  doi: 10.1109/access.2025.3606121
 - key: obite2025exploring
   type: article
   authors:
@@ -1895,6 +1971,37 @@
   month: 8
   year: 2015
   doi: 10.1109/avss.2015.7301744
+- key: betancourt2015dynamic
+  type: inproceedings
+  authors:
+  - "Betancourt, A."
+  - "Morerio, P."
+  - "Barakova, E. I."
+  - "Marcenaro, L."
+  - "Rauterberg, M."
+  - "Regazzoni, C. S."
+  title: A Dynamic Approach and a New Dataset for Hand-detection in First Person Vision
+  venue: Lecture Notes in Computer Science
+  volume: '9280'
+  pages: 274–287
+  year: 2015
+  doi: 10.1007/978-3-319-23192-1_23
+- key: betancourt2015unified
+  type: inproceedings
+  authors:
+  - "Betancourt, A."
+  - "Morerio, P."
+  - "Marcenaro, L."
+  - "Barakova, E."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  title: Towards a unified framework for hand-based methods in First Person Vision
+  venue: "2015 IEEE International Conference on Multimedia & Expo Workshops (ICMEW)"
+  location: "Turin, Italy"
+  pages: 1–6
+  month: 6
+  year: 2015
+  doi: 10.1109/icmew.2015.7169784
 - key: chiappino2015bio
   type: article
   authors:
@@ -1924,6 +2031,21 @@
   month: 4
   year: 2015
   doi: 10.1109/icassp.2015.7178343
+- key: davis2015perception
+  type: inproceedings
+  authors:
+  - "Davis, K."
+  - "Owusu, E."
+  - "Regazzoni, C."
+  - "Marcenaro, L."
+  - "Feijs, L."
+  - "Hu, J."
+  title: Perception of Human Activities - A Means to Support Connectedness Between the Elderly and Their Caregivers
+  venue: 1st International Conference on Information and Communication Technologies for Ageing Well and e-Health
+  location: "Lisbon, Portugal"
+  pages: 194–199
+  year: 2015
+  doi: 10.5220/0005490601940199
 - key: gogolev2015distributed
   type: article
   authors:
@@ -2193,11 +2315,15 @@
 - key: gogolev2014efficient
   type: inproceedings
   authors:
-  - "Gogolev, A."
+  - "Gogolev, A. E."
   - "Marcenaro, L."
-  title: Efficient binary consensus in randomized and noisy networks
-  venue: "9th IEEE Int. Conf. on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)"
+  title: Efficient binary consensus in randomized and noisy environments
+  venue: "2014 IEEE Ninth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)"
+  location: Singapore
+  pages: 1–6
+  month: 4
   year: 2014
+  doi: 10.1109/issnip.2014.6827594
 - key: gogolev2014randomized
   type: article
   authors:
@@ -2211,6 +2337,23 @@
   month: 5
   year: 2014
   doi: 10.3390/e16052820
+- key: lim2014design
+  type: inproceedings
+  authors:
+  - "Lim, V."
+  - "Yalvac, F."
+  - "Funk, M."
+  - "Hu, J."
+  - "Rauterberg, M."
+  - "Regazzoni, C."
+  - "Marcenaro, L."
+  title: Design implications for a community-based social recipe system
+  venue: World Congress on Sustainable Technologies (WCST-2014)
+  location: "London, United Kingdom"
+  pages: 19–26
+  month: 12
+  year: 2014
+  doi: 10.1109/wcst.2014.7030089
 - key: mazzu2014switching
   type: inproceedings
   authors:
@@ -2262,6 +2405,19 @@
   location: "Salamanca, Spain"
   month: 7
   year: 2014
+- key: mughal2014asymptotic
+  type: inproceedings
+  authors:
+  - "Mughal, M. O."
+  - "Marcenaro, L."
+  - "Regazzoni, C. S."
+  title: Asymptotic detection performance of energy detector in fixed-gain cooperative relay networks
+  venue: "IISA 2014, The 5th International Conference on Information, Intelligence, Systems and Applications"
+  location: "Chania, Crete, Greece"
+  pages: 280–284
+  month: 7
+  year: 2014
+  doi: 10.1109/iisa.2014.6878756
 - key: mughal2014energy
   type: article
   authors:
