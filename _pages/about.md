@@ -45,7 +45,6 @@ I have over 25 years of experience in signal processing and image sequence analy
 - Publication co-chair, 27th International Conference on Information Fusion ([FUSION 2024](https://isif.org/event/conference/27th-international-conference-information-fusion)), Venice, Italy
 
 **Earlier**
-- Scientific lead of Project 4 (robot- and AI-based inspection and predictive maintenance of port infrastructures), Spoke 4 "Smart and sustainable ports", of the [RAISE](https://www.raiseliguria.it/) innovation ecosystem (PNRR)
 - Associate Editor, IEEE Transactions on Image Processing and [IEEE Transactions on Circuits and Systems for Video Technology](https://ieee-cas.org/publication/tcsvt)
 - Technical program co-chair, 1st IEEE International Conference on Autonomous Systems ([IEEE ICAS 2021](https://web.archive.org/web/20210727141033/https://2021.ieee-icas.org/)) and 13th International Conference on Distributed Smart Cameras ([ICDSC 2019](https://event.unitn.it/icdsc2019/))
 - Director of Student Services, IEEE Signal Processing Society (2018–2021), overseeing the SP Cup and VIP Cup student competitions
@@ -53,11 +52,16 @@ I have over 25 years of experience in signal processing and image sequence analy
 - General chair, Symposium on Signal Processing for Understanding Crowd Dynamics at IEEE GlobalSIP 2016
 - Secretary and Treasurer, IEEE Signal Processing Society Italy Chapter (2011–2016)
 
+## Research projects
+
+- Scientific coordinator for the University of Genoa of [B-Prepared](https://cordis.europa.eu/project/id/101121134) (Building PREPAREDness with Collaborative Knowledge Platform, Gamification and Serious Game in Virtual Reality), Horizon Europe Innovation Action, grant agreement 101121134 (October 2023 – October 2026)
+- Scientific lead of Project 4 (robot- and AI-based inspection and predictive maintenance of port infrastructures), Spoke 4 "Smart and sustainable ports", of the [RAISE](https://www.raiseliguria.it/) innovation ecosystem, PNRR (until March 2026)
+
 ## Teaching
 
 At the University of Genoa I teach:
 
-- Pervasive Electronics (M.Sc. in Electronic Engineering)
-- Integrated Sensing and Communications (M.Sc. in Electronic Engineering)
-- Multimedia Signal Processing for Autonomous Systems (M.Sc. in Internet and Multimedia Engineering)
-- Fundamentals of Programming for Data and Signal Processing (B.Sc. in Electronic Engineering and Information Technologies)
+- Pervasive Dynamic Electronics (M.Sc. in Electronic Engineering)
+- Deep Learning for Space and Autonomous Systems (M.Sc. in Internet and Multimedia Engineering)
+- Python (M.Sc. in Internet and Multimedia Engineering)
+- Tecniche di programmazione avanzata per l'elaborazione dei segnali (B.Sc. in Electronic Engineering and Information Technologies)
