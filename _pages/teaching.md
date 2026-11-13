@@ -13,7 +13,7 @@ Courses I currently teach at the University of Genoa (academic year 2026/27):
 - [Pervasive Dynamic Electronics](https://corsi.unige.it/en/off.f/2026/ins/98476) – Master's degree in [Electronic Engineering](https://corsi.unige.it/en/corsi/11970). Taught since 2011/12, formerly *Pervasive Electronics*.
 - [Deep Learning for Space and Autonomous Systems](https://corsi.unige.it/en/off.f/2026/ins/99587) – Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962). Taught since 2020/21, formerly *Multimedia Signal Processing for Autonomous Systems*.
 - [Python](https://corsi.unige.it/en/off.f/2026/ins/98964) – Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962). Taught since 2025/26.
-- [Advanced Programming Techniques for Signal Processing](https://corsi.unige.it/en/off.f/2026/ins/99580) (*Tecniche di programmazione avanzata per l'elaborazione dei segnali*) – Bachelor's degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/en/corsi/11911).
+- [Advanced Programming Techniques for Signal Processing](https://corsi.unige.it/en/off.f/2026/ins/99580) (*Tecniche di programmazione avanzata per l'elaborazione dei segnali*) – Bachelor's degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/en/corsi/11911). New course, first taught in 2026/27.
 
 Earlier courses at the University of Genoa:
 
