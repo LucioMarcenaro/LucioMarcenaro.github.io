@@ -25,7 +25,7 @@ I have over 25 years of experience in signal processing and image sequence analy
 ## Current roles
 
 - Coordinator of the Bachelor's degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/en/corsi/11911) (Ingegneria Elettronica e Tecnologie dell'Informazione, IETI), University of Genoa, since 2025
-- Vice-coordinator of the [Joint Doctorate on Interactive and Cognitive Environments (JD-ICE)](https://jdice.phd.unige.it/), University of Genoa, since 2023
+- Vice-coordinator of the [Joint Doctorate on Interactive and Cognitive Environments (JD-ICE)](https://jdice.phd.unige.it/), University of Genoa, since 2024
 - Associate Editor, [IEEE Transactions on Aerospace and Electronic Systems](https://ieee-aess.org/publications/transactions-aes/home)
 - Senior Area Editor, [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)
 - Steering Committee member, IEEE AVSS conference (Advanced Video and Signal-Based Surveillance, now Advanced Visual and Signal-Based Systems), since 2014
