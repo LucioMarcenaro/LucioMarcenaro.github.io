@@ -63,7 +63,7 @@ I have over 25 years of experience in signal processing and image sequence analy
 
 At the University of Genoa I teach:
 
-- Pervasive Dynamic Electronics (Master's degree in [Electronic Engineering](https://corsi.unige.it/en/corsi/11970))
-- Deep Learning for Space and Autonomous Systems (Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962))
-- Python (Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962))
-- Tecniche di programmazione avanzata per l'elaborazione dei segnali (Bachelor's degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/en/corsi/11911))
+- [Pervasive Dynamic Electronics](https://corsi.unige.it/en/off.f/2026/ins/98476) (Master's degree in [Electronic Engineering](https://corsi.unige.it/en/corsi/11970))
+- [Deep Learning for Space and Autonomous Systems](https://corsi.unige.it/en/off.f/2026/ins/99587) (Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962))
+- [Python](https://corsi.unige.it/en/off.f/2026/ins/98964) (Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962))
+- [Advanced Programming Techniques for Signal Processing](https://corsi.unige.it/en/off.f/2026/ins/99580) (Tecniche di programmazione avanzata per l'elaborazione dei segnali; Bachelor's degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/en/corsi/11911))
