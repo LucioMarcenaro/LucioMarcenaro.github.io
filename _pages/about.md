@@ -67,3 +67,5 @@ At the University of Genoa I teach:
 - [Deep Learning for Space and Autonomous Systems](https://corsi.unige.it/en/off.f/2026/ins/99587) (Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962))
 - [Python](https://corsi.unige.it/en/off.f/2026/ins/98964) (Master's degree in [Internet and Multimedia Engineering](https://corsi.unige.it/en/corsi/11962))
 - [Advanced Programming Techniques for Signal Processing](https://corsi.unige.it/en/off.f/2026/ins/99580) (Tecniche di programmazione avanzata per l'elaborazione dei segnali; Bachelor's degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/en/corsi/11911))
+
+Doctoral courses, conference tutorials, summer school lectures and PhD supervision are listed on the [Teaching](/teaching/) page.
